@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1FE9D882-EC34-4354-9582-9A055FA6446B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TaxiService</RootNamespace>
+    <AssemblyName>TaxiService</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Car\Car.cs" />
+    <Compile Include="Car\EconomCar.cs" />
+    <Compile Include="Car\LuxuryCar.cs" />
+    <Compile Include="Car\Truck.cs" />
+    <Compile Include="Taxist\TaxistWorkInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taxist\TaxistWorkInfo.Designer.cs">
+      <DependentUpon>TaxistWorkInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\DetailsArrivalCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\DetailsArrivalCar.Designer.cs">
+      <DependentUpon>DetailsArrivalCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\LoginTaxist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\LoginTaxist.Designer.cs">
+      <DependentUpon>LoginTaxist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OtherClasses\District.cs" />
+    <Compile Include="OtherClasses\Order.cs" />
+    <Compile Include="OtherClasses\Person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registration\Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration\RegistrationTaxist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\RegistrationTaxist.Designer.cs">
+      <DependentUpon>RegistrationTaxist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartPoint\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartPoint\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartPoint\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartPoint\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taxist\Taxist.cs" />
+    <Compile Include="Taxist\TaxistEconomCarDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taxist\TaxistEconomCarDetails.Designer.cs">
+      <DependentUpon>TaxistEconomCarDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taxist\TaxistLuxuryCarDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taxist\TaxistLuxuryCarDetails.Designer.cs">
+      <DependentUpon>TaxistLuxuryCarDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taxist\TaxistTruckDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taxist\TaxistTruckDetails.Designer.cs">
+      <DependentUpon>TaxistTruckDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taxist\TaxistWorking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taxist\TaxistWorking.Designer.cs">
+      <DependentUpon>TaxistWorking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\UserEconomSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\UserEconomSettings.Designer.cs">
+      <DependentUpon>UserEconomSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\UserLuxurySettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\UserLuxurySettings.Designer.cs">
+      <DependentUpon>UserLuxurySettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\OrderTaxiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\OrderTaxiForm.Designer.cs">
+      <DependentUpon>OrderTaxiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\UserTruckSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\UserTruckSettings.Designer.cs">
+      <DependentUpon>UserTruckSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\User.cs" />
+    <EmbeddedResource Include="Login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\LoginTaxist.resx">
+      <DependentUpon>LoginTaxist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Registration\Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\RegistrationTaxist.resx">
+      <DependentUpon>RegistrationTaxist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartPoint\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartPoint\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taxist\TaxistWorkInfo.resx">
+      <DependentUpon>TaxistWorkInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taxist\TaxistEconomCarDetails.resx">
+      <DependentUpon>TaxistEconomCarDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taxist\TaxistLuxuryCarDetails.resx">
+      <DependentUpon>TaxistLuxuryCarDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taxist\TaxistTruckDetails.resx">
+      <DependentUpon>TaxistTruckDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taxist\TaxistWorking.resx">
+      <DependentUpon>TaxistWorking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\DetailsArrivalCar.resx">
+      <DependentUpon>DetailsArrivalCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\UserEconomSettings.resx">
+      <DependentUpon>UserEconomSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\UserLuxurySettings.resx">
+      <DependentUpon>UserLuxurySettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\OrderTaxiForm.resx">
+      <DependentUpon>OrderTaxiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\UserTruckSettings.resx">
+      <DependentUpon>UserTruckSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

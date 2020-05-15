@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Truck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <taxist>
+    <Name>y</Name>
+    <Surname>y</Surname>
+    <Nickname>y</Nickname>
+    <Password>y</Password>
+  </taxist>
+  <CarName>y</CarName>
+  <CarModel>y</CarModel>
+  <CarNumber>y</CarNumber>
+  <NumberOfSeats>1</NumberOfSeats>
+  <KilogramsCargo>0</KilogramsCargo>
+  <MaxKilogramsOfCargo>5000</MaxKilogramsOfCargo>
+</Truck>
