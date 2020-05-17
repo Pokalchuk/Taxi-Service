@@ -18,16 +18,14 @@ namespace TaxiService
         public UserLuxurySettings()
         {
             InitializeComponent();
-
         }
 
         private void buttonFind_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\ButtonClick.wav");
-            click.Play();
+            Sound.MakeSound("ButtonClick");
             List<LuxuryCar> luxuryCars = new List<LuxuryCar>();
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<LuxuryCar>));
-            using (Stream stream = File.OpenRead(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\XML\LuxuryCars.xml"))
+            using (Stream stream = File.OpenRead(@"..\..\XML\LuxuryCars.xml"))
             {
                 luxuryCars = (List<LuxuryCar>)xmlSerializer.Deserialize(stream);
             }
@@ -46,19 +44,16 @@ namespace TaxiService
                 }
             }
             DialogResult = DialogResult.OK;
-            //MessageBox.Show(luxuryCar.CarNumber);
         }
 
         private void checkBoxTv_CheckedChanged(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\Switch.wav");
-            click.Play();
+            Sound.MakeSound("Switch");
         }
 
         private void checkBoxAlcohol_CheckedChanged(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\Switch.wav");
-            click.Play();
+            Sound.MakeSound("Switch");
         }
     }
 }

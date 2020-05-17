@@ -73,24 +73,25 @@ namespace TaxiService
             DateTime FewMinutesLater = currentTime.AddMinutes(rand.Next(10));
             labelTime.Text = FewMinutesLater.ToString("HH:mm:ss tt");
             Image image = null;
-            pictureBoxCar.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBoxCar.SizeMode = PictureBoxSizeMode.StretchImage;   
             if (car is EconomCar)
             {
-                image = Image.FromFile($@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Images\EconomCar.jpg");
+                image = Image.FromFile($@"..\..\Images\EconomCar.jpg");
             }
             else if (car is LuxuryCar)
             {
-                image = Image.FromFile($@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Images\LuxuryCar.jpg");
+                image = Image.FromFile($@"..\..\Images\LuxuryCar.jpg");
             }
             else if (car is Truck)
             {
-                image = Image.FromFile($@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Images\Truck.jpg");
+                image = Image.FromFile($@"..\..\Images\Truck.jpg");
             }
             pictureBoxCar.Image = image;
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+
+        private void buttonOkay_Click(object sender, EventArgs e)
         {
             this.Close();
         }

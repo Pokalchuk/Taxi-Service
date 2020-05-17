@@ -41,7 +41,7 @@
             this.labelPrice = new System.Windows.Forms.Label();
             this.labelPriceCheck = new System.Windows.Forms.Label();
             this.pictureBoxCar = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.buttonOkey = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCar)).BeginInit();
             this.SuspendLayout();
             // 
@@ -104,36 +104,36 @@
             this.labelTaxistNameChange.AutoSize = true;
             this.labelTaxistNameChange.Location = new System.Drawing.Point(158, 192);
             this.labelTaxistNameChange.Name = "labelTaxistNameChange";
-            this.labelTaxistNameChange.Size = new System.Drawing.Size(114, 24);
+            this.labelTaxistNameChange.Size = new System.Drawing.Size(106, 24);
             this.labelTaxistNameChange.TabIndex = 9;
-            this.labelTaxistNameChange.Text = "Taxist name:";
+            this.labelTaxistNameChange.Text = "taxist name";
             // 
             // labelCarNumberChange
             // 
             this.labelCarNumberChange.AutoSize = true;
             this.labelCarNumberChange.Location = new System.Drawing.Point(158, 158);
             this.labelCarNumberChange.Name = "labelCarNumberChange";
-            this.labelCarNumberChange.Size = new System.Drawing.Size(115, 24);
+            this.labelCarNumberChange.Size = new System.Drawing.Size(105, 24);
             this.labelCarNumberChange.TabIndex = 8;
-            this.labelCarNumberChange.Text = "Car number:";
+            this.labelCarNumberChange.Text = "car number";
             // 
             // labelCarModelChange
             // 
             this.labelCarModelChange.AutoSize = true;
             this.labelCarModelChange.Location = new System.Drawing.Point(157, 123);
             this.labelCarModelChange.Name = "labelCarModelChange";
-            this.labelCarModelChange.Size = new System.Drawing.Size(104, 24);
+            this.labelCarModelChange.Size = new System.Drawing.Size(94, 24);
             this.labelCarModelChange.TabIndex = 7;
-            this.labelCarModelChange.Text = "Car model:";
+            this.labelCarModelChange.Text = "car model";
             // 
             // labelCarNameChange
             // 
             this.labelCarNameChange.AutoSize = true;
             this.labelCarNameChange.Location = new System.Drawing.Point(157, 89);
             this.labelCarNameChange.Name = "labelCarNameChange";
-            this.labelCarNameChange.Size = new System.Drawing.Size(97, 24);
+            this.labelCarNameChange.Size = new System.Drawing.Size(87, 24);
             this.labelCarNameChange.TabIndex = 6;
-            this.labelCarNameChange.Text = "Car name:";
+            this.labelCarNameChange.Text = "car name";
             // 
             // labelPrice
             // 
@@ -161,16 +161,16 @@
             this.pictureBoxCar.TabIndex = 12;
             this.pictureBoxCar.TabStop = false;
             // 
-            // button1
+            // buttonOkey
             // 
-            this.button1.BackColor = System.Drawing.Color.Lime;
-            this.button1.Location = new System.Drawing.Point(41, 341);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(135, 51);
-            this.button1.TabIndex = 13;
-            this.button1.Text = "Okey";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.buttonOkey.BackColor = System.Drawing.Color.Lime;
+            this.buttonOkey.Location = new System.Drawing.Point(41, 341);
+            this.buttonOkey.Name = "buttonOkey";
+            this.buttonOkey.Size = new System.Drawing.Size(135, 51);
+            this.buttonOkey.TabIndex = 13;
+            this.buttonOkey.Text = "Okay";
+            this.buttonOkey.UseVisualStyleBackColor = false;
+            this.buttonOkey.Click += new System.EventHandler(this.buttonOkay_Click);
             // 
             // DetailsArrivalCar
             // 
@@ -178,7 +178,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightBlue;
             this.ClientSize = new System.Drawing.Size(914, 417);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.buttonOkey);
             this.Controls.Add(this.pictureBoxCar);
             this.Controls.Add(this.labelPriceCheck);
             this.Controls.Add(this.labelPrice);
@@ -217,6 +217,6 @@
         private System.Windows.Forms.Label labelPrice;
         private System.Windows.Forms.Label labelPriceCheck;
         private System.Windows.Forms.PictureBox pictureBoxCar;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button buttonOkey;
     }
 }

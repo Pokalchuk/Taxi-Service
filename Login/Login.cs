@@ -25,8 +25,8 @@ namespace TaxiService
 
         private void buttonLogin_Click_1(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\ButtonClick.wav");
-            click.Play();
+            Sound.MakeSound("ButtonClick");
+
             try
             {
                 if (string.IsNullOrEmpty(textBoxNickname.Text) || string.IsNullOrEmpty(textBoxPassword.Text))
@@ -34,7 +34,7 @@ namespace TaxiService
                     throw new Exception("Some field is empty!!!");
                 }
 
-                string filePath = $@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Files\Users\{textBoxNickname.Text}.txt";
+                string filePath = $@"..\..\Files\Users\{textBoxNickname.Text}.txt";
                 if (!File.Exists(filePath))
                 {
                     throw new Exception($"User with nickname: {textBoxNickname.Text}\nDoes not exist!!!");

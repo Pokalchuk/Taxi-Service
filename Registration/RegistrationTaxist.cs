@@ -24,8 +24,8 @@ namespace TaxiService
 
         private void buttonRegister_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\ButtonClick.wav");
-            click.Play();
+            Sound.MakeSound("ButtonClick");
+
             try
             {
                 if (string.IsNullOrEmpty(textBoxName.Text) ||
@@ -46,7 +46,7 @@ namespace TaxiService
                     throw new Exception("Password mismatch");
                 }
 
-                string filePath = $@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Files\Taxists\{textBoxNickname.Text}.txt";
+                string filePath = $@"..\..\Files\Taxists\{textBoxNickname.Text}.txt";
                 if (File.Exists(filePath))
                 {
                     throw new Exception("Taxist with this nickname is already exist!!!");
@@ -76,7 +76,7 @@ namespace TaxiService
                 if (comboBoxCarsType.Text == "Econom")
                 {
                     XmlSerializer xmlSerializerCar = new XmlSerializer(typeof(EconomCar));
-                    using (Stream stream = File.Create($@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\XML\TaxistsWithCars\{taxist.Nickname}.xml"))
+                    using (Stream stream = File.Create($@"..\..\XML\TaxistsWithCars\{taxist.Nickname}.xml"))
                     {
                         xmlSerializerCar.Serialize(stream, ((EconomCar)car));
                     }
@@ -85,7 +85,7 @@ namespace TaxiService
                 else if (comboBoxCarsType.Text == "Luxury")
                 {
                     XmlSerializer xmlSerializerCar = new XmlSerializer(typeof(LuxuryCar));
-                    using (Stream stream = File.Create($@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\XML\TaxistsWithCars\{taxist.Nickname}.xml"))
+                    using (Stream stream = File.Create($@"..\..\XML\TaxistsWithCars\{taxist.Nickname}.xml"))
                     {
                         xmlSerializerCar.Serialize(stream, ((LuxuryCar)car));
                     }
@@ -93,7 +93,7 @@ namespace TaxiService
                 else if (comboBoxCarsType.Text == "Truck")
                 {
                     XmlSerializer xmlSerializerCar = new XmlSerializer(typeof(Truck));
-                    using (Stream stream = File.Create($@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\XML\TaxistsWithCars\{taxist.Nickname}.xml"))
+                    using (Stream stream = File.Create($@"..\..\XML\TaxistsWithCars\{taxist.Nickname}.xml"))
                     {
                         xmlSerializerCar.Serialize(stream, ((Truck)car));
                     }

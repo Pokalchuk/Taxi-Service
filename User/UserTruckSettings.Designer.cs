@@ -133,7 +133,6 @@
             this.Controls.Add(this.numericUpDownAmountPeople);
             this.Name = "UserTruckSettings";
             this.Text = "TruckSettings";
-            this.Load += new System.EventHandler(this.TruckSettings_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownAmountPeople)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownCargo)).EndInit();
             this.ResumeLayout(false);

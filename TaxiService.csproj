@@ -50,6 +50,7 @@
     <Compile Include="Car\EconomCar.cs" />
     <Compile Include="Car\LuxuryCar.cs" />
     <Compile Include="Car\Truck.cs" />
+    <Compile Include="OtherClasses\Sound.cs" />
     <Compile Include="Taxist\TaxistWorkInfo.cs">
       <SubType>Form</SubType>
     </Compile>

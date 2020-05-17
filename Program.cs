@@ -102,19 +102,19 @@ namespace TaxiService
             }
 
             XmlSerializer xmlSerializerEconom = new XmlSerializer(typeof(List<EconomCar>));
-            using (Stream stream = File.Create(@"F:\WinForms\TaxiServiceMain\TaxiService\XML\EconomCars.xml"))
+            using (Stream stream = File.Create(@"..\..\XML\EconomCars.xml"))
             {
                 xmlSerializerEconom.Serialize(stream, economCars);
             }
 
             XmlSerializer xmlSerializerLuxury = new XmlSerializer(typeof(List<LuxuryCar>));
-            using (Stream stream = File.Create(@"F:\WinForms\TaxiServiceMain\TaxiService\XML\LuxuryCars.xml"))
+            using (Stream stream = File.Create(@"..\..\XML\LuxuryCars.xml"))
             {
                 xmlSerializerLuxury.Serialize(stream, luxuryCars);
             }
 
             XmlSerializer xmlSerializerTruck = new XmlSerializer(typeof(List<Truck>));
-            using (Stream stream = File.Create(@"F:\WinForms\TaxiServiceMain\TaxiService\XML\Trucks.xml"))
+            using (Stream stream = File.Create(@"..\..\XML\Trucks.xml"))
             {
                 xmlSerializerTruck.Serialize(stream, trucks);
             }
@@ -135,7 +135,7 @@ namespace TaxiService
                 economCars.Add(new EconomCar(rand.Next(1, 5), rand.NextBool(), rand.NextBool(), users[i]));
             }
             XmlSerializer xmlSerializerEconom = new XmlSerializer(typeof(List<EconomCar>));
-            using (Stream stream = File.Create(@"F:\WinForms\TaxiServiceMain\TaxiService\XML\UserBase\UsersEconomCars.xml"))
+            using (Stream stream = File.Create(@"..\..\XML\UserBase\UsersEconomCars.xml"))
             {
                 xmlSerializerEconom.Serialize(stream, economCars);
             }
@@ -146,7 +146,7 @@ namespace TaxiService
                 luxuryCars.Add(new LuxuryCar(rand.Next(1, 3), rand.NextBool(), rand.NextBool(), users[i+economCars.Capacity]));
             }
             XmlSerializer xmlSerializerLuxury = new XmlSerializer(typeof(List<LuxuryCar>));
-            using (Stream stream = File.Create(@"F:\WinForms\TaxiServiceMain\TaxiService\XML\UserBase\UsersLuxuryCars.xml"))
+            using (Stream stream = File.Create(@"..\..\XML\UserBase\UsersLuxuryCars.xml"))
             {
                 xmlSerializerLuxury.Serialize(stream, luxuryCars);
             }
@@ -157,13 +157,15 @@ namespace TaxiService
                 trucks.Add(new Truck(rand.Next(1, 3), rand.Next(10000), users[i + economCars.Capacity + luxuryCars.Capacity]));
             }
             XmlSerializer xmlSerializerTruck = new XmlSerializer(typeof(List<Truck>));
-            using (Stream stream = File.Create(@"F:\WinForms\TaxiServiceMain\TaxiService\XML\UserBase\UsersTrucks.xml"))
+            using (Stream stream = File.Create(@"..\..\XML\UserBase\UsersTrucks.xml"))
             {
                 xmlSerializerTruck.Serialize(stream, trucks);
             }
 
         }
         #endregion
+
+
 
         /// <summary>
         /// The main entry point for the application.

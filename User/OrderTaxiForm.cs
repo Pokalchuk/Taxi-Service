@@ -14,7 +14,6 @@ namespace TaxiService
 {
     public partial class OrderTaxiForm : Form
     {
-        //public List<Car> cars;
         Car car;
         public OrderTaxiForm()
         {
@@ -25,8 +24,7 @@ namespace TaxiService
 
         private void buttonFindCar_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\ButtonClick.wav");
-            click.Play();
+            Sound.MakeSound("ButtonClick");
             try
             {
                 if (string.IsNullOrEmpty(textBoxCurrentAdress.Text) || string.IsNullOrEmpty(textBoxFinalAddress.Text))
@@ -58,10 +56,10 @@ namespace TaxiService
                         car = truckSettings.truck;
                     }
                 }
-
-            DetailsArrivalCar detailsArrivalCar = new DetailsArrivalCar(car);
-            detailsArrivalCar.ShowDialog();
-            this.Close();
+                this.Hide();
+                DetailsArrivalCar detailsArrivalCar = new DetailsArrivalCar(car);
+                detailsArrivalCar.ShowDialog();
+                this.Close();
             }
             catch(Exception ex)
             {

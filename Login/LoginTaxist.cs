@@ -23,8 +23,8 @@ namespace TaxiService
 
         private void buttonLogin_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\ButtonClick.wav");
-            click.Play();
+            Sound.MakeSound("ButtonClick");
+
             string typeCar = "";
             string nickname = "";
             try
@@ -34,7 +34,7 @@ namespace TaxiService
                     throw new Exception("Some field is empty!!!");
                 }
 
-                string filePath = $@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Files\Taxists\{textBoxNickname.Text}.txt";
+                string filePath = $@"..\..\Files\Taxists\{textBoxNickname.Text}.txt";
                 if (!File.Exists(filePath))
                 {
                     throw new Exception($"User with nickname: {textBoxNickname.Text}\nDoes not exist!!!");
@@ -58,14 +58,12 @@ namespace TaxiService
                     }
                 }
                 this.Hide();
-                //
-
-
+                
 
                 if (typeCar == "Econom")
                 {
                     XmlSerializer xmlSerializer = new XmlSerializer(typeof(EconomCar));
-                    using (Stream stream = File.OpenRead($@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\XML\TaxistsWithCars\{nickname}.xml"))
+                    using (Stream stream = File.OpenRead($@"..\..\XML\TaxistsWithCars\{nickname}.xml"))
                     {
                         car = (EconomCar)xmlSerializer.Deserialize(stream);
                     }
@@ -73,7 +71,7 @@ namespace TaxiService
                 else if (typeCar == "Luxury")
                 {
                     XmlSerializer xmlSerializer = new XmlSerializer(typeof(LuxuryCar));
-                    using (Stream stream = File.OpenRead($@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\XML\TaxistsWithCars\{nickname}.xml"))
+                    using (Stream stream = File.OpenRead($@"..\..\XML\TaxistsWithCars\{nickname}.xml"))
                     {
                         car = (LuxuryCar)xmlSerializer.Deserialize(stream);
                     }
@@ -81,7 +79,7 @@ namespace TaxiService
                 else if (typeCar == "Truck")
                 {
                     XmlSerializer xmlSerializer = new XmlSerializer(typeof(Truck));
-                    using (Stream stream = File.OpenRead($@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\XML\TaxistsWithCars\{nickname}.xml"))
+                    using (Stream stream = File.OpenRead($@"..\..\XML\TaxistsWithCars\{nickname}.xml"))
                     {
                         car = (Truck)xmlSerializer.Deserialize(stream);
                     }

@@ -16,12 +16,15 @@ namespace TaxiService
         public Menu()
         {
             InitializeComponent();
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            Image image = Image.FromFile($@"..\..\Images\Taxi3.png");
+            pictureBox1.Image = image;
         }
 
         private void buttonLogin_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMain\TaxiService\Sounds\ButtonClick.wav");
-            click.Play();
+            Sound.MakeSound("ButtonClick");
+
             if (radioButtonUser.Checked)
             {
                 this.Hide();
@@ -44,8 +47,8 @@ namespace TaxiService
 
         private void buttonRegistration_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMain\TaxiService\Sounds\ButtonClick.wav");
-            click.Play();
+            Sound.MakeSound("ButtonClick");
+
             if (radioButtonUser.Checked)
             {
                 this.Hide();
@@ -65,22 +68,5 @@ namespace TaxiService
             }
           
         }
-
-        System.Media.SoundPlayer beep;
-        private void buttonDoNotPushThisButton_Click(object sender, EventArgs e)
-        {
-            beep = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMain\TaxiService\Sounds\DoNotPushThisButton.wav");
-            beep.Play();
-            buttonStop.Visible = true;
-        }
-        private void buttonStop_Click(object sender, EventArgs e)
-        {
-            beep.Stop();
-            //Thread.Sleep(1000);
-            buttonDoNotPushThisButton.Visible = false;
-            buttonStop.Visible = false;
-        }
-
-       
     }
 }

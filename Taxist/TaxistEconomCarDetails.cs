@@ -21,8 +21,7 @@ namespace TaxiService
 
         private void buttonOk_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\TinyButtonClickPush.wav");
-            click.Play();
+            Sound.MakeSound("TinyButtonClickPush");
             car.IsChildSeat = checkBoxChildSeat.Checked;
             car.IsWheelChair = checkBoxWheelChair.Checked;
             car.NumberOfSeats = Convert.ToInt32(numericUpDownAmountPeople.Value);
@@ -31,20 +30,17 @@ namespace TaxiService
 
         private void checkBoxChildSeat_CheckedChanged(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\Switch.wav");
-            click.Play();
+            Sound.MakeSound("Switch");
         }
 
         private void checkBoxWheelChair_CheckedChanged(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\Switch.wav");
-            click.Play();
+            Sound.MakeSound("Switch");
         }
 
         private void numericUpDownAmountPeople_ValueChanged(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\Click.wav");
-            click.Play();
+            Sound.MakeSound("Click");
         }
     }
 }

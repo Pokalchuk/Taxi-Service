@@ -22,11 +22,10 @@ namespace TaxiService
 
         private void buttonFind_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\ButtonClick.wav");
-            click.Play();
+            Sound.MakeSound("ButtonClick");
             List<Truck> trucks = new List<Truck>();
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Truck>));
-            using (Stream stream = File.OpenRead(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\XML\Trucks.xml"))
+            using (Stream stream = File.OpenRead(@"..\..\XML\Trucks.xml"))
             {
                 trucks = (List<Truck>)xmlSerializer.Deserialize(stream);
             }
@@ -46,9 +45,5 @@ namespace TaxiService
             DialogResult = DialogResult.OK;
         }
 
-        private void TruckSettings_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

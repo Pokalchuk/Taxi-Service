@@ -21,8 +21,8 @@ namespace TaxiService
 
         private void buttonRegister_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer click = new System.Media.SoundPlayer(@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Sounds\ButtonClick.wav");
-            click.Play();
+            Sound.MakeSound("ButtonClick");
+
             try
             {
                 if (string.IsNullOrEmpty(textBoxName.Text) ||
@@ -40,7 +40,7 @@ namespace TaxiService
                     throw new Exception("Password mismatch");
                 }
 
-                string filePath = $@"F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\Files\Users\{textBoxNickname.Text}.txt";
+                string filePath = $@"..\..\Files\Users\{textBoxNickname.Text}.txt";
                 if (File.Exists(filePath))
                 {
                     throw new Exception("User already exist!!!");
