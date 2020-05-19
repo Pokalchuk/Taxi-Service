@@ -18,7 +18,6 @@ namespace TaxiService
             InitializeComponent();
             car = (EconomCar)mainCar;
         }
-
         private void buttonOk_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("TinyButtonClickPush");
@@ -27,17 +26,14 @@ namespace TaxiService
             car.NumberOfSeats = Convert.ToInt32(numericUpDownAmountPeople.Value);
             this.Close();
         }
-
         private void checkBoxChildSeat_CheckedChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Switch");
         }
-
         private void checkBoxWheelChair_CheckedChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Switch");
         }
-
         private void numericUpDownAmountPeople_ValueChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Click");

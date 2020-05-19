@@ -18,7 +18,6 @@ namespace TaxiService
             InitializeComponent();
             car = (LuxuryCar)mainCar;
         }
-
         private void buttonOk_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("TinyButtonClickPush");
@@ -27,17 +26,14 @@ namespace TaxiService
             car.IsAlcohol = checkBoxAlcohol.Checked;
             this.Close();
         }
-
         private void checkBoxTv_CheckedChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Switch");
         }
-
         private void checkBoxAlcohol_CheckedChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Switch");
         }
-
         private void numericUpDownAmountPeople_ValueChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Click");

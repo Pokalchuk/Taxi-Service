@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OtherClasses\Base.cs" />
     <Compile Include="Car\Car.cs" />
     <Compile Include="Car\EconomCar.cs" />
     <Compile Include="Car\LuxuryCar.cs" />
@@ -76,7 +77,6 @@
       <DependentUpon>LoginTaxist.cs</DependentUpon>
     </Compile>
     <Compile Include="OtherClasses\District.cs" />
-    <Compile Include="OtherClasses\Order.cs" />
     <Compile Include="OtherClasses\Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

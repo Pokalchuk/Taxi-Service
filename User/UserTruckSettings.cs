@@ -19,7 +19,6 @@ namespace TaxiService
         {
             InitializeComponent();
         }
-
         private void buttonFind_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");
@@ -31,12 +30,10 @@ namespace TaxiService
             }
             truck = new Truck();
             truck.KilogramsCargo = Convert.ToInt32(numericUpDownCargo.Value);
-
             truck.NumberOfSeats = Convert.ToInt32(numericUpDownAmountPeople.Value);
-
             for (int i = 0; i < trucks.Count; ++i)
             {
-                if ((trucks[i].isMatch(truck)) != null)
+                if ((trucks[i].IsMatch(truck)) != null)
                 {
                     truck = trucks[i];
                     break;
@@ -44,6 +41,5 @@ namespace TaxiService
             }
             DialogResult = DialogResult.OK;
         }
-
     }
 }

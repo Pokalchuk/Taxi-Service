@@ -15,7 +15,6 @@ namespace TaxiService
 {
     public partial class TaxistWorking : Form
     {
-        public bool IsAccepted;
         public Car carTaxist;
         public District district;
         public Car rightCar;
@@ -26,7 +25,6 @@ namespace TaxiService
             carTaxist = car;
             user = new User();
         }
-
         private void buttonWork_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");

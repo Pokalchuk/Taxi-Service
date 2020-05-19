@@ -17,12 +17,9 @@ namespace TaxiService
         {
             InitializeComponent();
         }
-
-
         private void buttonRegister_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");
-
             try
             {
                 if (string.IsNullOrEmpty(textBoxName.Text) ||
@@ -61,7 +58,5 @@ namespace TaxiService
                 MessageBox.Show($"{ex.Message}");
             }
         }
-          
-
     }
 }

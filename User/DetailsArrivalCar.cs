@@ -13,7 +13,6 @@ namespace TaxiService
     public partial class DetailsArrivalCar : Form
     {
         public Car car;
-
         public static int CheckPrice(Car car)
         {
             Random rand = new Random();
@@ -58,7 +57,6 @@ namespace TaxiService
             }
             else{ return 0; }
         }
-
         public DetailsArrivalCar(Car _car)
         {
             InitializeComponent();
@@ -89,8 +87,6 @@ namespace TaxiService
             pictureBoxCar.Image = image;
 
         }
-
-
         private void buttonOkay_Click(object sender, EventArgs e)
         {
             this.Close();

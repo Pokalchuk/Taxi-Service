@@ -21,15 +21,13 @@ namespace TaxiService
             this.IsTv = isTv;
             this.IsAlcohol = isFreeAlcohol;
         }
-
-
         public LuxuryCar(int numberOfSeats, bool isTv, bool isAlcohol, User user) : base(numberOfSeats)
         {
             this.IsTv = isTv;
             this.IsAlcohol = isAlcohol;
             User = user;
         }
-        public LuxuryCar isMatch(LuxuryCar car)
+        public LuxuryCar IsMatch(LuxuryCar car)
         {
             if (IsTv == car.IsTv &&
                 IsAlcohol == car.IsAlcohol &&
@@ -43,7 +41,6 @@ namespace TaxiService
             }
 
         }
-
         public User UserMatchTaxistWork(List<LuxuryCar> usersLuxuryBase, District district)
         {
             User user;
@@ -60,6 +57,5 @@ namespace TaxiService
             }
             return null;
         }
-
     }
 }

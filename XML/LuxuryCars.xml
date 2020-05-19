@@ -2,696 +2,132 @@
 <ArrayOfLuxuryCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <LuxuryCar>
     <taxist>
-      <Name>Nadia</Name>
-      <Surname>Parhomenko</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BK9206CB</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Galkin</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB8899BC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Samsonov</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA9780BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Igor</Name>
-      <Surname>Pokhulyk</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB9874BC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Vlasenko</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BK7337AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BK2998AA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BH2081AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK1580BA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Viktoria</Name>
-      <Surname>Kozachok</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH7162AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Galkin</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BH6490AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Vlasenko</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>CB4738CK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Samsonov</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AA7892AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BK6848CK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH4034CK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AA5142AA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>CB9342AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Viktoria</Name>
-      <Surname>Pokhulyk</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BK9783BC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BH9602AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Porobko</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AA8728AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>CB9608AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Parhomenko</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK2842CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Vasil</Name>
-      <Surname>Parhomenko</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA5712BK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE1791AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Porobko</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE5899AA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Samsonov</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA8647AA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>CB5213AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BH2525BA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Igor</Name>
-      <Surname>Samsonov</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH9279BA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Vlasenko</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA4634AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Viktoria</Name>
-      <Surname>Kozachok</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH1453AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Galkin</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB5670AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AE6934AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Viktoria</Name>
-      <Surname>Porobko</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH5015BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK8420BC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Igor</Name>
-      <Surname>Parhomenko</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE6056BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Vlasenko</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>CB1822CB</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Vasil</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AE2291BK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Viktoria</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA3918BC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Kolia</Name>
-      <Surname>Parhomenko</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK6413AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB1746CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE2634AA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Ostin</Name>
+      <Name>Petro</Name>
       <Surname>Gaychuk</Surname>
     </taxist>
     <CarName>Maybach </CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB8546AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BH7005BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Igor</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AE2771AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BH9762AC</CarNumber>
+    <CarModel>4</CarModel>
+    <CarNumber>BK4885AA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
+    <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
-      <Name>Fedor</Name>
-      <Surname>Galkin</Surname>
+      <Name>Vitaliy</Name>
+      <Surname>Vasilevichka</Surname>
     </taxist>
-    <CarName>Bentley</CarName>
+    <CarName>Maybach </CarName>
     <CarModel>5</CarModel>
-    <CarNumber>CB5098AE</CarNumber>
+    <CarNumber>AE1721BA</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA3127AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Porobko</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BK8386AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
     <IsTv>true</IsTv>
     <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Kozachok</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BK3063AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB9026AA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA4640KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Igor</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BH2393CB</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB9804AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB1804BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Samsonov</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA5071CB</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
       <Name>Vitaliy</Name>
       <Surname>Pokalchuk</Surname>
     </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB7459BC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
+    <CarName>Porsche</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH2700BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
     <IsTv>false</IsTv>
     <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
-      <Name>Nadia</Name>
-      <Surname>Mizavich</Surname>
+      <Name>Kolia</Name>
+      <Surname>Parhomenko</Surname>
     </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK4412CK</CarNumber>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK9019BC</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Kozachok</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BH2098BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
     <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Pokalchuk</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AA8313KA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
       <Name>Arthur</Name>
       <Surname>Samsonov</Surname>
     </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BK1620KA</CarNumber>
+    <CarName>Bentley</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BK2536BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BH6723AE</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Pokhulyk</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH9549BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Mizavich</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AE3347CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Pokhulyk</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>CB6553AC</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <IsTv>true</IsTv>
     <IsAlcohol>false</IsAlcohol>
@@ -701,81 +137,21 @@
       <Name>Roma</Name>
       <Surname>Gaychuk</Surname>
     </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>CB8970CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Pokalchuk</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH3920BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Parhomenko</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA9525BC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB5616KA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE2826AA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH1075CK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
     <CarName>Alfa Romeo</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK5796BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Ivan</Name>
+      <Surname>Kozachok</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>BK5762BC</CarNumber>
+    <CarNumber>AE8307BA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <IsTv>true</IsTv>
     <IsAlcohol>false</IsAlcohol>
@@ -783,23 +159,167 @@
   <LuxuryCar>
     <taxist>
       <Name>Ivan</Name>
-      <Surname>Gaychuk</Surname>
+      <Surname>Pokalchuk</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA5996AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Kozachok</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BH8715CB</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Melnyk</Surname>
     </taxist>
     <CarName>Bugatti</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH1322BA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>BH7863BC</CarNumber>
+    <CarNumber>BH6104AA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Mizavich</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA5946BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BH8836AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH5954BA</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsTv>false</IsTv>
     <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
-      <Name>Viktoria</Name>
+      <Name>Ivan</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AE9484BA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>CB5355AE</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Vilenskiy</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AA5887KA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Galkin</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>CB8421BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Ivan</Name>
       <Surname>Samsonov</Surname>
     </taxist>
     <CarName>Porsche</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE6726BC</CarNumber>
+    <CarModel>2</CarModel>
+    <CarNumber>CB2745BA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Pokalchuk</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AE7112BK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Gaychuk</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE8096BA</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsTv>true</IsTv>
     <IsAlcohol>false</IsAlcohol>
@@ -807,13 +327,529 @@
   <LuxuryCar>
     <taxist>
       <Name>Artem</Name>
-      <Surname>Vlasenko</Surname>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH8033CB</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AA1679KA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Galkin</Surname>
     </taxist>
     <CarName>Bentley</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK8276BK</CarNumber>
+    <CarModel>1</CarModel>
+    <CarNumber>AA8426AA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Galkin</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AA8152BA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Gaychuk</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK5998KA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE7836BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Galkin</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>CB2850BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Pokalchuk</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AA2976CB</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Kozachok</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>CB3195KA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Vilenskiy</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>CB5565AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Vilenskiy</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BK2788AE</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Pokalchuk</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>CB7732BA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Galkin</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BH9260CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Ivan</Name>
+      <Surname>Vilenskiy</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>CB7441AA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK2748CB</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Samsonov</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>CB9228AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE2981CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Galkin</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BH7410BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>CB6664BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Ivan</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE3759AE</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Vlasenko</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AE4717BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Pokhulyk</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE9451AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Galkin</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BK4763KA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Kozachok</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BK6169AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE7601AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Gaychuk</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AE2967AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>CB3312AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Mizavich</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AE3463BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Kozachok</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK5892AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Gaychuk</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK9768AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Pokhulyk</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH2037BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Kozachok</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK1439CB</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK2253AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BH3036BK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Mizavich</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK4783AE</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Gaychuk</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AA2694CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Koval</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB6019AE</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Mizavich</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AE3022CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Vlasenko</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AA2607BK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Pokalchuk</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE8877BA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA5548AE</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE3656CB</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AE8655BA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>CB6690KA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
     <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
@@ -822,152 +858,20 @@
       <Surname>Galkin</Surname>
     </taxist>
     <CarName>Maybach </CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB7513AA</CarNumber>
+    <CarModel>1</CarModel>
+    <CarNumber>BK8001BK</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
+    <IsTv>true</IsTv>
     <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK5900CK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Vasil</Name>
-      <Surname>Samsonov</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AE5496AE</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
       <Name>Vitaliy</Name>
-      <Surname>Vlasenko</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BH6202AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Viktoria</Name>
       <Surname>Vasilevichka</Surname>
     </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>CB8013KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK9423AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB8900CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Vasil</Name>
-      <Surname>Porobko</Surname>
-    </taxist>
     <CarName>Bentley</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>CB2065BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Samsonov</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BK4223AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Pokhulyk</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH6430AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Pokhulyk</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BK3258AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB4545CK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AE2016BA</CarNumber>
+    <CarNumber>BH9218CK</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <IsTv>true</IsTv>
     <IsAlcohol>true</IsAlcohol>
@@ -975,71 +879,71 @@
   <LuxuryCar>
     <taxist>
       <Name>Igor</Name>
-      <Surname>Vasilevichka</Surname>
+      <Surname>Mizavich</Surname>
     </taxist>
     <CarName>Porsche</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>CB9090BC</CarNumber>
+    <CarModel>5</CarModel>
+    <CarNumber>BH1577CB</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Pokhulyk</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB7090AC</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
+    <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
-      <Name>Nadia</Name>
-      <Surname>Gaychuk</Surname>
+      <Name>Kolia</Name>
+      <Surname>Sagaidachniy</Surname>
     </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AE5053AC</CarNumber>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH9884AA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>CB2760CB</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Vlasenko</Surname>
-    </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BK8233BC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
     <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
-      <Name>Irina</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Porsche</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BH2200AE</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Parhomenko</Surname>
+      <Name>Kolia</Name>
+      <Surname>Koval</Surname>
     </taxist>
     <CarName>Maybach </CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE2769BC</CarNumber>
+    <CarModel>3</CarModel>
+    <CarNumber>BK9058KA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
+    <IsTv>false</IsTv>
     <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
       <Name>Petro</Name>
-      <Surname>Mizavich</Surname>
+      <Surname>Kozachok</Surname>
     </taxist>
     <CarName>Bugatti</CarName>
     <CarModel>3</CarModel>
-    <CarNumber>AA7818AA</CarNumber>
+    <CarNumber>AA3313AE</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <IsTv>true</IsTv>
     <IsAlcohol>false</IsAlcohol>
@@ -1047,109 +951,133 @@
   <LuxuryCar>
     <taxist>
       <Name>Stepan</Name>
-      <Surname>Melnyk</Surname>
+      <Surname>Parhomenko</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>CB1966AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Koval</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA3218BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Koval</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE2850CB</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Porobko</Surname>
     </taxist>
     <CarName>Bugatti</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AA2570AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
+    <CarModel>5</CarModel>
+    <CarNumber>CB3889AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
     <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
       <Name>Artem</Name>
-      <Surname>Vilenskiy</Surname>
+      <Surname>Vlasenko</Surname>
     </taxist>
-    <CarName>Alfa Romeo</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA9130BK</CarNumber>
+    <CarName>Bugatti</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>CB4305AC</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH4734AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Petro</Name>
+      <Surname>Galkin</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA8586KA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
     <IsTv>true</IsTv>
     <IsAlcohol>false</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
       <Name>Vitaliy</Name>
+      <Surname>Vlasenko</Surname>
+    </taxist>
+    <CarName>Maybach </CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AA7877BC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Ostin</Name>
       <Surname>Vilenskiy</Surname>
     </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BH1007AC</CarNumber>
+    <CarName>Maybach </CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK3134CK</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsTv>true</IsTv>
     <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
-      <Name>Ivan</Name>
-      <Surname>Porobko</Surname>
+      <Name>Vasil</Name>
+      <Surname>Gaychuk</Surname>
     </taxist>
     <CarName>Alfa Romeo</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB1046BK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Viktoria</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BK5500AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Kolia</Name>
-      <Surname>Porobko</Surname>
-    </taxist>
-    <CarName>Maybach </CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE4691AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>false</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>AA1435AC</CarNumber>
+    <CarNumber>AA6877KA</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
+    <IsAlcohol>false</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
-      <Name>Irina</Name>
-      <Surname>Pokhulyk</Surname>
-    </taxist>
-    <CarName>Bugatti</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE1708KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>false</IsTv>
-    <IsAlcohol>true</IsAlcohol>
-  </LuxuryCar>
-  <LuxuryCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Parhomenko</Surname>
+      <Name>Roma</Name>
+      <Surname>Melnyk</Surname>
     </taxist>
     <CarName>Bugatti</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>AE7167BK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
+    <CarNumber>BH8981BA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
     <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
@@ -1157,10 +1085,34 @@
       <Name>Vitaliy</Name>
       <Surname>Koval</Surname>
     </taxist>
-    <CarName>Bugatti</CarName>
+    <CarName>Porsche</CarName>
     <CarModel>3</CarModel>
-    <CarNumber>AA7836AC</CarNumber>
+    <CarNumber>BK3561AA</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Petro</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB7861AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Petro</Name>
+      <Surname>Koval</Surname>
+    </taxist>
+    <CarName>Bentley</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE9203BA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <IsTv>false</IsTv>
     <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
@@ -1169,34 +1121,82 @@
       <Name>Kolia</Name>
       <Surname>Sagaidachniy</Surname>
     </taxist>
-    <CarName>Porsche</CarName>
+    <CarName>Maybach </CarName>
     <CarModel>1</CarModel>
-    <CarNumber>BH8515KA</CarNumber>
+    <CarNumber>BK3085CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Alfa Romeo</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AA2884BC</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
-    <IsTv>true</IsTv>
+    <IsTv>false</IsTv>
     <IsAlcohol>false</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
-      <Name>Vasil</Name>
+      <Name>Viktoria</Name>
       <Surname>Parhomenko</Surname>
     </taxist>
-    <CarName>Bentley</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA1358BA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
+    <CarName>Porsche</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AE1504BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
     <IsTv>true</IsTv>
     <IsAlcohol>true</IsAlcohol>
   </LuxuryCar>
   <LuxuryCar>
     <taxist>
       <Name>Fedor</Name>
-      <Surname>Parhomenko</Surname>
+      <Surname>Koval</Surname>
     </taxist>
     <CarName>Alfa Romeo</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AA1002BK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>false</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Galkin</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>AA5202BC</CarNumber>
+    <CarNumber>AA4287AA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsTv>true</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Porsche</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA6548AA</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
+    <IsTv>false</IsTv>
+    <IsAlcohol>true</IsAlcohol>
+  </LuxuryCar>
+  <LuxuryCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Galkin</Surname>
+    </taxist>
+    <CarName>Bugatti</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BH9390AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <IsTv>true</IsTv>
     <IsAlcohol>false</IsAlcohol>
   </LuxuryCar>

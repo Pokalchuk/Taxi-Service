@@ -20,15 +20,12 @@ namespace TaxiService
         {
             this.MaxKilogramsOfCargo = maxKilogramsOfCargo;
         }
-
         public Truck(int numberOfSeats, int kilogramsCargo,User user) : base(numberOfSeats)
         {
             this.KilogramsCargo = kilogramsCargo;
             User = user;
         }
-
-
-        public Truck isMatch(Truck car)
+        public Truck IsMatch(Truck car)
         {
             if (this.MaxKilogramsOfCargo >= car.KilogramsCargo &&
                 this.NumberOfSeats >= car.NumberOfSeats)
@@ -40,7 +37,6 @@ namespace TaxiService
                 return null;
             }
         }
-
         public User UserMatchTaxistWork(List<Truck> usersTruckBase, District district)
         {
             User user;

@@ -22,15 +22,13 @@ namespace TaxiService
             this.IsChildSeat = isChildSeat;
             this.IsWheelChair = isWheelChair;
         }
-
         public EconomCar(int numberOfSeats, bool isChildSeat, bool isWheelChair, User user) : base(numberOfSeats)
         {
             this.IsChildSeat = isChildSeat;
             this.IsWheelChair = isWheelChair;
             User = user;
         }
-
-        public EconomCar isMatch(EconomCar car)
+        public EconomCar IsMatch(EconomCar car)
         {
             if (IsChildSeat == car.IsChildSeat &&
                 IsWheelChair == car.IsWheelChair &&
@@ -43,26 +41,6 @@ namespace TaxiService
                 return null;
             }
         }
-
-        //public EconomCar isMatchTaxistWork(List<EconomCar> usersEconomBase, District district,ref User user)
-        //{
-        //    EconomCar rightCar;
-        //    for (int i = 0; i < usersEconomBase.Count; ++i)
-        //    {
-        //        if (usersEconomBase[i].IsChildSeat == this.IsChildSeat &&
-        //        usersEconomBase[i].IsWheelChair == this.IsWheelChair &&
-        //        usersEconomBase[i].NumberOfSeats <= this.NumberOfSeats &&
-        //        district.districts.Contains(usersEconomBase[i].User.Street))
-        //        {
-        //            user = usersEconomBase[i].User;
-        //            rightCar = usersEconomBase[i];
-        //            return rightCar;
-        //        }
-        //    }
-        //    return null;
-        //}
-
-
         public User UserMatchTaxistWork(List<EconomCar> usersEconomBase, District district)
         {
             User user;

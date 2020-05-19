@@ -19,7 +19,6 @@ namespace TaxiService
         {
             InitializeComponent();
         }
-
         private void buttonFind_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");
@@ -37,7 +36,7 @@ namespace TaxiService
 
             for (int i = 0; i < economCars.Count; ++i)
             {
-                if ((economCars[i].isMatch(economCar)) != null)
+                if ((economCars[i].IsMatch(economCar)) != null)
                 {
                     economCar = economCars[i];
                     break;
@@ -45,17 +44,14 @@ namespace TaxiService
             }
             DialogResult = DialogResult.OK;
         }
-
         private void checkBoxChildSeat_CheckedChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Switch");
         }
-
         private void checkBoxWheelChair_CheckedChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Switch");
         }
-
         private void numericUpDownAmountPeople_ValueChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Click");

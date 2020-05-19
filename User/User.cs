@@ -16,18 +16,9 @@ namespace TaxiService
             Nickname = "";
             Password = "";
         }
-
         public User(string name, string surname,string street) : base(name, surname) 
         {
             Street = street;
-        }
-        public void AddUser(string name,string surname,DateTime dateTime,string nickname,string password)
-        {
-            Name = name;
-            Surname = surname;
-            birthDate = dateTime;
-            Nickname = nickname;
-            Password = password;
         }
     }
 }

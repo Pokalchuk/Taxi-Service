@@ -14,17 +14,14 @@ namespace TaxiService
 {
     public partial class LoginTaxist : Form
     {
-
         Car car;
         public LoginTaxist()
         {
             InitializeComponent();
         }
-
         private void buttonLogin_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");
-
             string typeCar = "";
             string nickname = "";
             try
@@ -59,7 +56,6 @@ namespace TaxiService
                 }
                 this.Hide();
                 
-
                 if (typeCar == "Econom")
                 {
                     XmlSerializer xmlSerializer = new XmlSerializer(typeof(EconomCar));
@@ -92,6 +88,5 @@ namespace TaxiService
                 MessageBox.Show(ex.Message);
             }
         }
-
     }
 }

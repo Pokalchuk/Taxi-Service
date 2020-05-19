@@ -18,7 +18,6 @@ namespace TaxiService
             InitializeComponent();
             truck = (Truck)carMain;
         }
-
         private void buttonOk_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("TinyButtonClickPush");
@@ -26,12 +25,10 @@ namespace TaxiService
             truck.NumberOfSeats = Convert.ToInt32(numericUpDownAmountPeople.Value);
             this.Close();
         }
-
         private void numericUpDownAmountPeople_ValueChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Switch");
         }
-
         private void numericUpDownCargo_ValueChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Click");

@@ -123,7 +123,7 @@
             this.Controls.Add(this.labelChoiceCar);
             this.Controls.Add(this.comboBoxCarsType);
             this.Name = "OrderTaxiForm";
-            this.Text = "8";
+            this.Text = "Order form";
             this.ResumeLayout(false);
             this.PerformLayout();
 

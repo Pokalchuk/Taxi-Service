@@ -103,7 +103,7 @@
             this.Controls.Add(this.textBoxPassword);
             this.Controls.Add(this.textBoxNickname);
             this.Name = "Login";
-            this.Text = "7";
+            this.Text = "Login";
             this.ResumeLayout(false);
             this.PerformLayout();
 

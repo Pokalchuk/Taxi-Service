@@ -7,10 +7,6 @@ using System.Xml.Serialization;
 
 namespace TaxiService
 {
-    enum TypeOfPerson
-    {
-        USER = 1, TAXIST = 2
-    };
     [Serializable]
     public class Person
     {
@@ -23,26 +19,10 @@ namespace TaxiService
             Name = "";
             Surname = "";
         }
-
         public Person(string name, string surname)
         {
             Name = name;
             Surname = surname;
-        }
-
-        public Person(string name,string surname,DateTime dateTime)
-        {
-            Name = name;
-            Surname = surname;
-            birthDate = dateTime;
-        }
-      
-        public DateTime AddBirthDate(int year,int month,int day)
-        {
-            birthDate = new DateTime(year, month, day);
-            return birthDate;
-        }
-
-        
+        } 
     }
 }

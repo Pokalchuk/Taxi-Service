@@ -17,16 +17,9 @@ namespace TaxiService
         {
             InitializeComponent();
         }
-
-        private void buttonLogin_Click(object sender, EventArgs e)
-        {
-            
-        }
-
         private void buttonLogin_Click_1(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");
-
             try
             {
                 if (string.IsNullOrEmpty(textBoxNickname.Text) || string.IsNullOrEmpty(textBoxPassword.Text))

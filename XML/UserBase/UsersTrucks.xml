@@ -2,1002 +2,1002 @@
 <ArrayOfTruck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Truck>
     <User>
-      <Name>Arthur</Name>
-      <Surname>Porobko</Surname>
-      <Street>Polovtsia</Street>
+      <Name>Petro</Name>
+      <Surname>Pokhulyk</Surname>
+      <Street>Moskovskaya</Street>
     </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>1999</KilogramsCargo>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>6849</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Ostin</Name>
-      <Surname>Samsonov</Surname>
+      <Name>Arthur</Name>
+      <Surname>Vasilevichka</Surname>
       <Street>Mir</Street>
     </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>6911</KilogramsCargo>
+    <KilogramsCargo>9479</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Artem</Name>
+      <Surname>Sagaidachniy</Surname>
+      <Street>Romanovicha</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>5752</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Stepan</Name>
-      <Surname>Pokhulyk</Surname>
-      <Street>Shevchenka</Street>
+      <Surname>Koval</Surname>
+      <Street>Vishneva</Street>
     </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>2233</KilogramsCargo>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>5024</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Fedor</Name>
+      <Name>Vitaliy</Name>
+      <Surname>Gaychuk</Surname>
+      <Street>Yabluneva</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>3175</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Ostin</Name>
+      <Surname>Kozachok</Surname>
+      <Street>Romanovicha</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>5186</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Arthur</Name>
       <Surname>Vlasenko</Surname>
       <Street>Zlota</Street>
     </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>6654</KilogramsCargo>
+    <KilogramsCargo>5579</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Kolia</Name>
+      <Surname>Pokhulyk</Surname>
+      <Street>Mir</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>5864</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Ostin</Name>
-      <Surname>Pokalchuk</Surname>
-      <Street>Ogirkova</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>262</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Stepan</Name>
-      <Surname>Parhomenko</Surname>
-      <Street>Romanovicha</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>457</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Fedor</Name>
-      <Surname>Koval</Surname>
-      <Street>Romanovicha</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>8597</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Kolia</Name>
-      <Surname>Vlasenko</Surname>
+      <Surname>Melnyk</Surname>
       <Street>Mir</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>3449</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Kolia</Name>
-      <Surname>Sagaidachniy</Surname>
-      <Street>Shevchenka</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>9618</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Kolia</Name>
-      <Surname>Galkin</Surname>
-      <Street>Moskovskaya</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>4303</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Viktoria</Name>
-      <Surname>Parhomenko</Surname>
-      <Street>Romanovicha</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>3180</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Roma</Name>
-      <Surname>Vilenskiy</Surname>
-      <Street>Mir</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>6704</KilogramsCargo>
+    <KilogramsCargo>7599</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Irina</Name>
-      <Surname>Mizavich</Surname>
-      <Street>Polovtsia</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>2899</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Viktoria</Name>
-      <Surname>Pokhulyk</Surname>
-      <Street>Shevchenka</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>2455</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Roma</Name>
-      <Surname>Vlasenko</Surname>
-      <Street>Zlota</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>963</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ostin</Name>
-      <Surname>Vasilevichka</Surname>
-      <Street>Vishneva</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>5564</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Kolia</Name>
-      <Surname>Pokhulyk</Surname>
+      <Surname>Koval</Surname>
       <Street>Oleni Teligi</Street>
     </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>700</KilogramsCargo>
+    <KilogramsCargo>8418</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Artem</Name>
-      <Surname>Samsonov</Surname>
-      <Street>Zlota</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>5847</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Artem</Name>
-      <Surname>Melnyk</Surname>
-      <Street>Volodimira</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>2388</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ostin</Name>
-      <Surname>Vilenskiy</Surname>
-      <Street>Moskovskaya</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>1075</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Nadia</Name>
+      <Name>Vitaliy</Name>
       <Surname>Sagaidachniy</Surname>
-      <Street>Omega</Street>
+      <Street>Vishneva</Street>
     </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>7831</KilogramsCargo>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>3331</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Kolia</Name>
-      <Surname>Parhomenko</Surname>
-      <Street>Omega</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>9143</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ivan</Name>
-      <Surname>Gaychuk</Surname>
-      <Street>Moskovskaya</Street>
+      <Surname>Sagaidachniy</Surname>
+      <Street>Bohoyavlenska</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>2642</KilogramsCargo>
+    <KilogramsCargo>6241</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Ostin</Name>
-      <Surname>Galkin</Surname>
+      <Name>Petro</Name>
+      <Surname>Kozachok</Surname>
       <Street>Yabluneva</Street>
     </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>5791</KilogramsCargo>
+    <KilogramsCargo>7578</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Arthur</Name>
-      <Surname>Parhomenko</Surname>
+      <Surname>Kozachok</Surname>
       <Street>Omega</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>1803</KilogramsCargo>
+    <KilogramsCargo>7758</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Ostin</Name>
-      <Surname>Samsonov</Surname>
+      <Name>Arthur</Name>
+      <Surname>Porobko</Surname>
+      <Street>Oleni Teligi</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>6586</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Vitaliy</Name>
+      <Surname>Mizavich</Surname>
+      <Street>Oleni Teligi</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>7752</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Fedor</Name>
+      <Surname>Pokalchuk</Surname>
       <Street>Shevchenka</Street>
     </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>6931</KilogramsCargo>
+    <KilogramsCargo>6032</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Ivan</Name>
       <Surname>Kozachok</Surname>
-      <Street>Zlota</Street>
+      <Street>Ogirkova</Street>
     </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>3061</KilogramsCargo>
+    <KilogramsCargo>1126</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Nadia</Name>
-      <Surname>Koval</Surname>
-      <Street>Vishneva</Street>
+      <Name>Fedor</Name>
+      <Surname>Parhomenko</Surname>
+      <Street>Soborna</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>5781</KilogramsCargo>
+    <KilogramsCargo>2093</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Roma</Name>
+      <Surname>Sagaidachniy</Surname>
+      <Street>Mir</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>3926</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Vasil</Name>
+      <Surname>Sagaidachniy</Surname>
+      <Street>Oleni Teligi</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>8477</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Roma</Name>
+      <Surname>Melnyk</Surname>
+      <Street>Polovtsia</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>5647</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Vasil</Name>
+      <Surname>Porobko</Surname>
+      <Street>Bohoyavlenska</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>685</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Fedor</Name>
+      <Surname>Sagaidachniy</Surname>
+      <Street>Soborna</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>8143</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Stepan</Name>
-      <Surname>Sagaidachniy</Surname>
-      <Street>Soborna</Street>
+      <Surname>Koval</Surname>
+      <Street>Romanovicha</Street>
     </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>1357</KilogramsCargo>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>6880</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Artem</Name>
-      <Surname>Gaychuk</Surname>
-      <Street>Polovtsia</Street>
+      <Name>Arthur</Name>
+      <Surname>Koval</Surname>
+      <Street>Sagaychuka</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>1623</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Vitaliy</Name>
+      <Surname>Galkin</Surname>
+      <Street>Mir</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>6240</KilogramsCargo>
+    <KilogramsCargo>2560</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Vitaliy</Name>
       <Surname>Pokhulyk</Surname>
-      <Street>Omega</Street>
+      <Street>Zlota</Street>
     </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>3004</KilogramsCargo>
+    <KilogramsCargo>7581</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Irina</Name>
+      <Surname>Parhomenko</Surname>
+      <Street>Bohoyavlenska</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>598</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Roma</Name>
+      <Surname>Sagaidachniy</Surname>
+      <Street>Vishneva</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>8954</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Petro</Name>
+      <Surname>Melnyk</Surname>
+      <Street>Soborna</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>6408</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Irina</Name>
+      <Surname>Vlasenko</Surname>
+      <Street>Zlota</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>3672</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Arthur</Name>
+      <Surname>Galkin</Surname>
+      <Street>Bohoyavlenska</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>9025</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Kolia</Name>
+      <Surname>Pokhulyk</Surname>
+      <Street>Ogirkova</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>905</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Nadia</Name>
+      <Surname>Pokalchuk</Surname>
+      <Street>Polovtsia</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>6197</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Roma</Name>
+      <Surname>Vasilevichka</Surname>
+      <Street>Mir</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>441</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Nadia</Name>
+      <Surname>Vlasenko</Surname>
+      <Street>Yabluneva</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>5407</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Ivan</Name>
+      <Surname>Kozachok</Surname>
+      <Street>Sagaychuka</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>7041</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Vasil</Name>
+      <Surname>Porobko</Surname>
+      <Street>Volodimira</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>7264</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Ostin</Name>
+      <Surname>Vilenskiy</Surname>
+      <Street>Sagaychuka</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>9249</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Igor</Name>
+      <Surname>Mizavich</Surname>
+      <Street>Vishneva</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>4034</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Irina</Name>
+      <Surname>Sagaidachniy</Surname>
+      <Street>Mir</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>1742</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Vasil</Name>
+      <Surname>Vlasenko</Surname>
+      <Street>Moskovskaya</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>2051</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Igor</Name>
+      <Surname>Koval</Surname>
+      <Street>Moskovskaya</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>4698</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Igor</Name>
+      <Surname>Porobko</Surname>
+      <Street>Ogirkova</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>9035</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Ostin</Name>
+      <Surname>Galkin</Surname>
+      <Street>Vishneva</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>1142</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Petro</Name>
+      <Surname>Kozachok</Surname>
+      <Street>Bohoyavlenska</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>3517</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Vitaliy</Name>
+      <Surname>Pokhulyk</Surname>
+      <Street>Yabluneva</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>8773</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Irina</Name>
+      <Surname>Pokhulyk</Surname>
+      <Street>Vishneva</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>5139</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Irina</Name>
+      <Surname>Kozachok</Surname>
+      <Street>Yabluneva</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>4842</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Fedor</Name>
+      <Surname>Sagaidachniy</Surname>
+      <Street>Vishneva</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>2666</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Fedor</Name>
+      <Surname>Melnyk</Surname>
+      <Street>Zlota</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>2864</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Viktoria</Name>
+      <Surname>Koval</Surname>
+      <Street>Polovtsia</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>8528</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Ostin</Name>
+      <Surname>Melnyk</Surname>
+      <Street>Polovtsia</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>7911</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Stepan</Name>
+      <Surname>Galkin</Surname>
+      <Street>Polovtsia</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>9780</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Nadia</Name>
+      <Surname>Vilenskiy</Surname>
+      <Street>Bohoyavlenska</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>6672</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Viktoria</Name>
+      <Surname>Samsonov</Surname>
+      <Street>Yabluneva</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>293</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Artem</Name>
+      <Surname>Vasilevichka</Surname>
+      <Street>Yabluneva</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>9538</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Igor</Name>
+      <Surname>Vilenskiy</Surname>
+      <Street>Shevchenka</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>4658</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Irina</Name>
+      <Surname>Koval</Surname>
+      <Street>Romanovicha</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>7449</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Fedor</Name>
       <Surname>Vlasenko</Surname>
-      <Street>Yabluneva</Street>
+      <Street>Romanovicha</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>540</KilogramsCargo>
+    <KilogramsCargo>3228</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Kolia</Name>
+      <Surname>Porobko</Surname>
+      <Street>Polovtsia</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>9928</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Ostin</Name>
+      <Surname>Melnyk</Surname>
+      <Street>Shevchenka</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>2981</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Vitaliy</Name>
-      <Surname>Vasilevichka</Surname>
-      <Street>Omega</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>8844</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Kolia</Name>
-      <Surname>Porobko</Surname>
-      <Street>Soborna</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>6306</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Igor</Name>
-      <Surname>Porobko</Surname>
-      <Street>Omega</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>7647</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Arthur</Name>
-      <Surname>Pokhulyk</Surname>
-      <Street>Bohoyavlenska</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>4043</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Kolia</Name>
-      <Surname>Porobko</Surname>
-      <Street>Yabluneva</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>875</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ivan</Name>
-      <Surname>Melnyk</Surname>
-      <Street>Yabluneva</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>8668</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ivan</Name>
-      <Surname>Pokalchuk</Surname>
-      <Street>Moskovskaya</Street>
+      <Surname>Samsonov</Surname>
+      <Street>Polovtsia</Street>
     </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>1312</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ivan</Name>
-      <Surname>Vilenskiy</Surname>
-      <Street>Mir</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>2801</KilogramsCargo>
+    <KilogramsCargo>1609</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Petro</Name>
       <Surname>Vlasenko</Surname>
-      <Street>Soborna</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>9077</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Artem</Name>
-      <Surname>Vlasenko</Surname>
-      <Street>Ogirkova</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>3730</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ivan</Name>
-      <Surname>Vasilevichka</Surname>
-      <Street>Ogirkova</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>9486</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Artem</Name>
-      <Surname>Galkin</Surname>
       <Street>Omega</Street>
     </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>6323</KilogramsCargo>
+    <KilogramsCargo>4462</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Vitaliy</Name>
-      <Surname>Galkin</Surname>
-      <Street>Shevchenka</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>1144</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Stepan</Name>
-      <Surname>Galkin</Surname>
-      <Street>Ogirkova</Street>
+      <Name>Fedor</Name>
+      <Surname>Pokhulyk</Surname>
+      <Street>Mir</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>817</KilogramsCargo>
+    <KilogramsCargo>9380</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Viktoria</Name>
+      <Surname>Melnyk</Surname>
+      <Street>Shevchenka</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>7530</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Kolia</Name>
-      <Surname>Porobko</Surname>
-      <Street>Volodimira</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>2340</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Viktoria</Name>
-      <Surname>Mizavich</Surname>
-      <Street>Moskovskaya</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>8025</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Roma</Name>
       <Surname>Gaychuk</Surname>
-      <Street>Polovtsia</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>6203</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Igor</Name>
-      <Surname>Melnyk</Surname>
-      <Street>Polovtsia</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>5055</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Nadia</Name>
-      <Surname>Parhomenko</Surname>
       <Street>Sagaychuka</Street>
     </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>2526</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Viktoria</Name>
-      <Surname>Parhomenko</Surname>
-      <Street>Volodimira</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>6791</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Stepan</Name>
-      <Surname>Koval</Surname>
-      <Street>Romanovicha</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>1574</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ivan</Name>
-      <Surname>Vasilevichka</Surname>
-      <Street>Romanovicha</Street>
-    </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>7018</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Irina</Name>
-      <Surname>Melnyk</Surname>
-      <Street>Yabluneva</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>5562</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ivan</Name>
-      <Surname>Samsonov</Surname>
-      <Street>Volodimira</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>230</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ostin</Name>
-      <Surname>Vasilevichka</Surname>
-      <Street>Oleni Teligi</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>8666</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Igor</Name>
-      <Surname>Galkin</Surname>
-      <Street>Sagaychuka</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>8286</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Vitaliy</Name>
-      <Surname>Sagaidachniy</Surname>
-      <Street>Vishneva</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>7389</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Artem</Name>
-      <Surname>Parhomenko</Surname>
-      <Street>Moskovskaya</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>4357</KilogramsCargo>
+    <KilogramsCargo>1339</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Vasil</Name>
       <Surname>Pokhulyk</Surname>
-      <Street>Mir</Street>
+      <Street>Soborna</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>4748</KilogramsCargo>
+    <KilogramsCargo>5830</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Irina</Name>
+      <Surname>Mizavich</Surname>
+      <Street>Moskovskaya</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>9088</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Viktoria</Name>
+      <Surname>Samsonov</Surname>
+      <Street>Soborna</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>6521</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Petro</Name>
+      <Surname>Pokalchuk</Surname>
+      <Street>Oleni Teligi</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>9430</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Petro</Name>
+      <Surname>Sagaidachniy</Surname>
+      <Street>Romanovicha</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>516</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Vasil</Name>
-      <Surname>Gaychuk</Surname>
-      <Street>Bohoyavlenska</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>527</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Igor</Name>
-      <Surname>Mizavich</Surname>
-      <Street>Omega</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>456</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Artem</Name>
-      <Surname>Pokalchuk</Surname>
+      <Surname>Vilenskiy</Surname>
       <Street>Polovtsia</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>2256</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Vasil</Name>
+      <Surname>Pokalchuk</Surname>
+      <Street>Soborna</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>814</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Vitaliy</Name>
+      <Surname>Gaychuk</Surname>
+      <Street>Sagaychuka</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>7417</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Ivan</Name>
+      <Surname>Porobko</Surname>
+      <Street>Soborna</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>8696</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Irina</Name>
-      <Surname>Sagaidachniy</Surname>
-      <Street>Ogirkova</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>5247</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Viktoria</Name>
-      <Surname>Galkin</Surname>
-      <Street>Vishneva</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>233</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Arthur</Name>
-      <Surname>Vilenskiy</Surname>
-      <Street>Zlota</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>7749</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Nadia</Name>
-      <Surname>Pokalchuk</Surname>
-      <Street>Polovtsia</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>1541</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ivan</Name>
-      <Surname>Vlasenko</Surname>
+      <Name>Vitaliy</Name>
+      <Surname>Gaychuk</Surname>
       <Street>Zlota</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>1225</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Stepan</Name>
-      <Surname>Melnyk</Surname>
-      <Street>Mir</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>3769</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Artem</Name>
-      <Surname>Sagaidachniy</Surname>
-      <Street>Romanovicha</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>650</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Petro</Name>
-      <Surname>Sagaidachniy</Surname>
-      <Street>Yabluneva</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>907</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Nadia</Name>
-      <Surname>Kozachok</Surname>
-      <Street>Polovtsia</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>4072</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Fedor</Name>
-      <Surname>Pokhulyk</Surname>
-      <Street>Sagaychuka</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>2253</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Irina</Name>
-      <Surname>Mizavich</Surname>
-      <Street>Oleni Teligi</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>5425</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Artem</Name>
-      <Surname>Kozachok</Surname>
-      <Street>Oleni Teligi</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>9322</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Viktoria</Name>
-      <Surname>Koval</Surname>
-      <Street>Polovtsia</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>941</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Stepan</Name>
-      <Surname>Mizavich</Surname>
-      <Street>Polovtsia</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>6821</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Fedor</Name>
-      <Surname>Vilenskiy</Surname>
-      <Street>Ogirkova</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>3592</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Igor</Name>
-      <Surname>Vlasenko</Surname>
-      <Street>Polovtsia</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>72</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Nadia</Name>
-      <Surname>Samsonov</Surname>
-      <Street>Vishneva</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>7196</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Viktoria</Name>
-      <Surname>Pokalchuk</Surname>
-      <Street>Polovtsia</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>4540</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Nadia</Name>
-      <Surname>Porobko</Surname>
-      <Street>Soborna</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>9111</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Petro</Name>
-      <Surname>Galkin</Surname>
-      <Street>Oleni Teligi</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>804</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Petro</Name>
-      <Surname>Sagaidachniy</Surname>
-      <Street>Zlota</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>632</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Nadia</Name>
-      <Surname>Koval</Surname>
-      <Street>Omega</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>3762</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Irina</Name>
-      <Surname>Vlasenko</Surname>
-      <Street>Romanovicha</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>1425</KilogramsCargo>
+    <KilogramsCargo>9529</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Ostin</Name>
-      <Surname>Melnyk</Surname>
+      <Surname>Vilenskiy</Surname>
+      <Street>Moskovskaya</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>9251</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Viktoria</Name>
+      <Surname>Vlasenko</Surname>
+      <Street>Moskovskaya</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>9774</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Arthur</Name>
+      <Surname>Porobko</Surname>
+      <Street>Mir</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>4886</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Kolia</Name>
+      <Surname>Koval</Surname>
+      <Street>Shevchenka</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>4861</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Arthur</Name>
+      <Surname>Koval</Surname>
+      <Street>Polovtsia</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>3680</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Arthur</Name>
+      <Surname>Kozachok</Surname>
+      <Street>Yabluneva</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>695</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Kolia</Name>
+      <Surname>Pokhulyk</Surname>
+      <Street>Oleni Teligi</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>3609</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Ivan</Name>
+      <Surname>Galkin</Surname>
+      <Street>Oleni Teligi</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>1882</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Artem</Name>
+      <Surname>Porobko</Surname>
+      <Street>Oleni Teligi</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>6966</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Irina</Name>
+      <Surname>Koval</Surname>
+      <Street>Ogirkova</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>8070</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Ivan</Name>
+      <Surname>Pokalchuk</Surname>
+      <Street>Omega</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>2263</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Vasil</Name>
+      <Surname>Vlasenko</Surname>
+      <Street>Moskovskaya</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>8491</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Roma</Name>
+      <Surname>Sagaidachniy</Surname>
+      <Street>Yabluneva</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>5635</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Nadia</Name>
+      <Surname>Kozachok</Surname>
+      <Street>Yabluneva</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>4240</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Fedor</Name>
+      <Surname>Vasilevichka</Surname>
       <Street>Bohoyavlenska</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>524</KilogramsCargo>
+    <KilogramsCargo>7547</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Stepan</Name>
+      <Surname>Melnyk</Surname>
+      <Street>Romanovicha</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>2422</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Stepan</Name>
+      <Surname>Samsonov</Surname>
+      <Street>Soborna</Street>
+    </User>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>6961</KilogramsCargo>
+    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <User>
+      <Name>Fedor</Name>
+      <Surname>Melnyk</Surname>
+      <Street>Yabluneva</Street>
+    </User>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>5602</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Igor</Name>
-      <Surname>Galkin</Surname>
-      <Street>Volodimira</Street>
+      <Surname>Porobko</Surname>
+      <Street>Bohoyavlenska</Street>
     </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>8928</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Arthur</Name>
-      <Surname>Vilenskiy</Surname>
-      <Street>Romanovicha</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>9271</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Arthur</Name>
-      <Surname>Vlasenko</Surname>
-      <Street>Yabluneva</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>869</KilogramsCargo>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>9211</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
       <Name>Stepan</Name>
       <Surname>Kozachok</Surname>
-      <Street>Moskovskaya</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>1738</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Arthur</Name>
-      <Surname>Vasilevichka</Surname>
-      <Street>Zlota</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>2634</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Kolia</Name>
-      <Surname>Gaychuk</Surname>
-      <Street>Bohoyavlenska</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>5071</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Ivan</Name>
-      <Surname>Vlasenko</Surname>
-      <Street>Oleni Teligi</Street>
-    </User>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>4409</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Irina</Name>
-      <Surname>Pokhulyk</Surname>
       <Street>Yabluneva</Street>
     </User>
     <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>1365</KilogramsCargo>
+    <KilogramsCargo>668</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Vitaliy</Name>
-      <Surname>Porobko</Surname>
-      <Street>Vishneva</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>3128</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Artem</Name>
-      <Surname>Kozachok</Surname>
-      <Street>Soborna</Street>
-    </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>6395</KilogramsCargo>
-    <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <User>
-      <Name>Nadia</Name>
-      <Surname>Vlasenko</Surname>
-      <Street>Volodimira</Street>
+      <Name>Viktoria</Name>
+      <Surname>Parhomenko</Surname>
+      <Street>Mir</Street>
     </User>
     <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>1995</KilogramsCargo>
+    <KilogramsCargo>513</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <User>
-      <Name>Kolia</Name>
+      <Name>Fedor</Name>
       <Surname>Vasilevichka</Surname>
-      <Street>Oleni Teligi</Street>
+      <Street>Soborna</Street>
     </User>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>2688</KilogramsCargo>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>2292</KilogramsCargo>
     <MaxKilogramsOfCargo>0</MaxKilogramsOfCargo>
   </Truck>
 </ArrayOfTruck>

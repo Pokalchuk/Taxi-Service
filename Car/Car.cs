@@ -6,12 +6,6 @@ using System.Threading.Tasks;
 
 namespace TaxiService
 {
-    enum TypeOfCar
-    {
-        ECONOM = 1,
-        LUXURY,
-        TRUCK
-    };
     [Serializable]
     public class Car
     {
@@ -37,11 +31,9 @@ namespace TaxiService
             NumberOfSeats = 0;
             taxist = null;
         }
-
         public Car(int numberOfSeats)
         {
             NumberOfSeats = numberOfSeats;
         }
-
     }
 }

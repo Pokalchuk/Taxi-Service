@@ -21,7 +21,6 @@ namespace TaxiService
             comboBoxCarsType.SelectedIndex = 0;
             car = new Car();
         }
-
         private void buttonFindCar_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");
