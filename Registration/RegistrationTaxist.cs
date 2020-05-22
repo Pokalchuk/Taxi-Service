@@ -21,11 +21,9 @@ namespace TaxiService
             InitializeComponent();
             taxist = new Taxist();
         }
-
         private void buttonRegister_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");
-
             try
             {
                 if (string.IsNullOrEmpty(textBoxName.Text) ||
@@ -72,7 +70,6 @@ namespace TaxiService
                 car.CarModel = textBoxCarModel.Text;
                 car.CarNumber = textBoxCarNumber.Text;
 
-
                 if (comboBoxCarsType.Text == "Econom")
                 {
                     XmlSerializer xmlSerializerCar = new XmlSerializer(typeof(EconomCar));
@@ -100,7 +97,6 @@ namespace TaxiService
                 }
                 comboBoxCarsType.Enabled = false;
 
-                //this.Close();
                 this.Hide();
                 TaxistWorking taxistWorking = new TaxistWorking(car);
                 taxistWorking.ShowDialog();
@@ -131,7 +127,6 @@ namespace TaxiService
                 TaxistTruckDetails truckDetails = new TaxistTruckDetails(car);
                 truckDetails.ShowDialog();
             }
-
         }
     }
 }

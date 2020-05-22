@@ -69,7 +69,6 @@ namespace TaxiService
             taxistWorkInfo.ShowDialog();
             this.Close();
         }
-
         private void comboBoxDistrict_SelectedIndexChanged(object sender, EventArgs e)
         {
             Sound.MakeSound("Switch");

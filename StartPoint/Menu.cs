@@ -16,9 +16,6 @@ namespace TaxiService
         public Menu()
         {
             InitializeComponent();
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            Image image = Image.FromFile($@"..\..\Images\Taxi3.png");
-            pictureBox1.Image = image;
         }
 
         private void buttonLogin_Click(object sender, EventArgs e)

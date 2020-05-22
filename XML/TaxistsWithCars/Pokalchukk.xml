@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<LuxuryCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <taxist>
+    <Name>Artem</Name>
+    <Surname>Pokalchuk</Surname>
+    <Nickname>Pokalchukk</Nickname>
+    <Password>1234</Password>
+  </taxist>
+  <CarName>Lamborghini</CarName>
+  <CarModel>Urus</CarModel>
+  <CarNumber>AA1111AA</CarNumber>
+  <NumberOfSeats>2</NumberOfSeats>
+  <IsTv>true</IsTv>
+  <IsAlcohol>true</IsAlcohol>
+</LuxuryCar>

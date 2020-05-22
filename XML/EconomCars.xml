@@ -5,191 +5,35 @@
       <Name>Viktoria</Name>
       <Surname>Kozachok</Surname>
     </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AE6572AE</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Vlasenko</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB8556BA</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Kolia</Name>
-      <Surname>Pokalchuk</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB1319AC</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA7606BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Pokalchuk</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BH4261CK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA3765CK</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>CB8736AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA3226KA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA5676AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Kozachok</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BH4510CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Pokhulyk</Surname>
-    </taxist>
     <CarName>Lada</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>CB1542AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AE9789BA</CarNumber>
+    <CarModel>1</CarModel>
+    <CarNumber>BH9385AE</CarNumber>
     <NumberOfSeats>3</NumberOfSeats>
     <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
+    <IsWheelChair>false</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
       <Name>Ostin</Name>
-      <Surname>Vilenskiy</Surname>
+      <Surname>Pokhulyk</Surname>
     </taxist>
     <CarName>Citroen</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BK1078KA</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
+    <CarModel>1</CarModel>
+    <CarNumber>AA9766AA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Artem</Name>
-      <Surname>Pokhulyk</Surname>
+      <Name>Fedor</Name>
+      <Surname>Koval</Surname>
     </taxist>
     <CarName>Lada</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AE6135CB</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Kozachok</Surname>
-    </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BK2805AC</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Kolia</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH9490BA</CarNumber>
+    <CarModel>1</CarModel>
+    <CarNumber>BH4270BC</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
+    <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>false</IsWheelChair>
   </EconomCar>
   <EconomCar>
@@ -197,501 +41,57 @@
       <Name>Roma</Name>
       <Surname>Melnyk</Surname>
     </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA8274AA</CarNumber>
+    <CarName>Citroen</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK8231AC</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Ivan</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK9356AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Parhomenko</Surname>
-    </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE9730BC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Porobko</Surname>
-    </taxist>
-    <CarName>Lada</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>CB3207AC</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Samsonov</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH1879AC</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Vasil</Name>
+      <Name>Viktoria</Name>
       <Surname>Galkin</Surname>
     </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA6845BA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Porobko</Surname>
-    </taxist>
     <CarName>Cherry</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BK9158KA</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Kozachok</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE2846BA</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BH2594AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA9865BC</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Lada</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH4893BA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB6246CB</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB7744BA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BH7333BK</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AE5136BC</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
     <CarModel>5</CarModel>
-    <CarNumber>BH9380AE</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Pokhulyk</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA3684AC</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Samsonov</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB6704BC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Pokalchuk</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK7585AA</CarNumber>
+    <CarNumber>CB6919BC</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Melnyk</Surname>
-    </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK7414KA</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Pokalchuk</Surname>
-    </taxist>
-    <CarName>Lada</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AE1921CB</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Viktoria</Name>
-      <Surname>Pokhulyk</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA4595AC</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA2148CK</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>false</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
       <Name>Igor</Name>
-      <Surname>Sagaidachniy</Surname>
+      <Surname>Melnyk</Surname>
     </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE5596BA</CarNumber>
+    <CarName>Citroen</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BH4605AE</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Vasil</Name>
-      <Surname>Gaychuk</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK9098KA</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Lada</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK3792BA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
       <Name>Fedor</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Lada</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>CB7305AA</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Vasil</Name>
-      <Surname>Vilenskiy</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB2253AA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AE8718CB</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Viktoria</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH1516CB</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Irina</Name>
       <Surname>Gaychuk</Surname>
     </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA6924BK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Pokalchuk</Surname>
-    </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>CB9421BK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
     <CarName>Ford</CarName>
     <CarModel>5</CarModel>
-    <CarNumber>BH7620AA</CarNumber>
+    <CarNumber>BH5624BC</CarNumber>
     <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Parhomenko</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BH5669AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
     <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Viktoria</Name>
+      <Name>Stepan</Name>
       <Surname>Kozachok</Surname>
     </taxist>
     <CarName>Renault</CarName>
     <CarModel>5</CarModel>
-    <CarNumber>BK4754CK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE9535BA</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Vlasenko</Surname>
-    </taxist>
-    <CarName>Lada</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AE6446KA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Vlasenko</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AE4477CB</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AE6149BK</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BH3061CK</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK5410AA</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Viktoria</Name>
-      <Surname>Pokalchuk</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA3714CB</CarNumber>
+    <CarNumber>AA7717CK</CarNumber>
     <NumberOfSeats>4</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
@@ -699,26 +99,50 @@
   <EconomCar>
     <taxist>
       <Name>Fedor</Name>
-      <Surname>Vilenskiy</Surname>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH8307AE</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Parhomenko</Surname>
     </taxist>
     <CarName>Citroen</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA3258AC</CarNumber>
+    <CarModel>3</CarModel>
+    <CarNumber>BK8158CB</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Artem</Name>
-      <Surname>Melnyk</Surname>
+      <Name>Arthur</Name>
+      <Surname>Vilenskiy</Surname>
     </taxist>
     <CarName>Cherry</CarName>
     <CarModel>4</CarModel>
-    <CarNumber>AE4173KA</CarNumber>
+    <CarNumber>BH3362AC</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA6024CB</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
@@ -726,332 +150,56 @@
       <Surname>Parhomenko</Surname>
     </taxist>
     <CarName>Cherry</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA4306AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
+    <CarModel>1</CarModel>
+    <CarNumber>AE2250AA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
     <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>false</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Nadia</Name>
-      <Surname>Vlasenko</Surname>
+      <Name>Viktoria</Name>
+      <Surname>Pokhulyk</Surname>
     </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB4893BC</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
+    <CarName>Ford</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>CB8713BA</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
     <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
       <Name>Petro</Name>
-      <Surname>Kozachok</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BH7306AE</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE5872BC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA7350AE</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Vasil</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Lada</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AE7962CB</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Pokalchuk</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA7024AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Vilenskiy</Surname>
+      <Surname>Vlasenko</Surname>
     </taxist>
     <CarName>Cherry</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>AA3711CB</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
+    <CarNumber>BK7410CB</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
       <Name>Petro</Name>
-      <Surname>Mizavich</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK6664CK</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Ostin</Name>
       <Surname>Vilenskiy</Surname>
     </taxist>
-    <CarName>Citroen</CarName>
+    <CarName>Ford</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>BK4786CK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA1836BK</CarNumber>
+    <CarNumber>CB7620AA</CarNumber>
     <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA9636BA</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA2538AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
+    <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
       <Name>Viktoria</Name>
-      <Surname>Sagaidachniy</Surname>
-    </taxist>
-    <CarName>Lada</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA7451CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Vlasenko</Surname>
-    </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK3720AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Igor</Name>
-      <Surname>Koval</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BK4373CK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Porobko</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA2822AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Kolia</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AE3098AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Stepan</Name>
       <Surname>Parhomenko</Surname>
     </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BK6496CB</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Kozachok</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH4686CB</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Vasilevichka</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB8912AC</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Gaychuk</Surname>
-    </taxist>
     <CarName>Cherry</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK5622AC</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Gaychuk</Surname>
-    </taxist>
-    <CarName>Lada</CarName>
     <CarModel>1</CarModel>
-    <CarNumber>BK2311CK</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Gaychuk</Surname>
-    </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AE1231BK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Porobko</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB4235AC</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Samsonov</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA6992KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Pokhulyk</Surname>
-    </taxist>
-    <CarName>Renault</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BH4177CK</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
-    <IsWheelChair>false</IsWheelChair>
-  </EconomCar>
-  <EconomCar>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Parhomenko</Surname>
-    </taxist>
-    <CarName>Ford</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE3609CB</CarNumber>
+    <CarNumber>BH6811BA</CarNumber>
     <NumberOfSeats>3</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
@@ -1059,59 +207,119 @@
   <EconomCar>
     <taxist>
       <Name>Roma</Name>
-      <Surname>Koval</Surname>
+      <Surname>Vlasenko</Surname>
     </taxist>
-    <CarName>Lada</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA7987AC</CarNumber>
+    <CarName>Renault</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BK6198AA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <IsChildSeat>true</IsChildSeat>
-    <IsWheelChair>true</IsWheelChair>
+    <IsWheelChair>false</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Kolia</Name>
-      <Surname>Kozachok</Surname>
+      <Name>Roma</Name>
+      <Surname>Mizavich</Surname>
     </taxist>
     <CarName>Lada</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE7917CK</CarNumber>
+    <CarModel>3</CarModel>
+    <CarNumber>AA8051CB</CarNumber>
     <NumberOfSeats>4</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Ivan</Name>
-      <Surname>Parhomenko</Surname>
+      <Name>Vitaliy</Name>
+      <Surname>Pokhulyk</Surname>
     </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BK5440BK</CarNumber>
+    <CarName>Ford</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK8291AE</CarNumber>
     <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
+    <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Arthur</Name>
-      <Surname>Samsonov</Surname>
+      <Name>Irina</Name>
+      <Surname>Vilenskiy</Surname>
     </taxist>
-    <CarName>Citroen</CarName>
+    <CarName>Ford</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>CB4588KA</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Parhomenko</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
     <CarModel>3</CarModel>
-    <CarNumber>BK8734AC</CarNumber>
+    <CarNumber>AA9432CB</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>false</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Ivan</Name>
-      <Surname>Pokalchuk</Surname>
+      <Name>Ostin</Name>
+      <Surname>Melnyk</Surname>
     </taxist>
-    <CarName>Renault</CarName>
+    <CarName>Ford</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>CB7959CK</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>AA1702BC</CarNumber>
+    <CarNumber>CB7003BK</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Gaychuk</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>CB1392CB</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BK1232AC</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Citroen</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AE3530BK</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
@@ -1119,11 +327,299 @@
   <EconomCar>
     <taxist>
       <Name>Igor</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AE7838AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Citroen</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AA3852AC</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Mizavich</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB6109AE</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Kozachok</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>CB2107AE</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Kozachok</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE9238BK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Vilenskiy</Surname>
+    </taxist>
+    <CarName>Citroen</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AE4331BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Nadia</Name>
       <Surname>Koval</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AA8295CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK9560BA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Parhomenko</Surname>
     </taxist>
     <CarName>Renault</CarName>
     <CarModel>5</CarModel>
-    <CarNumber>CB5122BA</CarNumber>
+    <CarNumber>AE4982CB</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK3867KA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Pokalchuk</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AE4698KA</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Petro</Name>
+      <Surname>Vilenskiy</Surname>
+    </taxist>
+    <CarName>Citroen</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH6937BA</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Vlasenko</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH3368BK</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Samsonov</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH6980KA</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Vilenskiy</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK2952CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Vilenskiy</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK8984CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Vlasenko</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH6524BK</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Koval</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AA4970BA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Vilenskiy</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AE3577CB</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Koval</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AE4190BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AA5277AC</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AA8018AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Vlasenko</Surname>
+    </taxist>
+    <CarName>Citroen</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AA1235AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Pokhulyk</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AA6699AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Pokalchuk</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BK2665AE</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
@@ -1131,12 +627,432 @@
   <EconomCar>
     <taxist>
       <Name>Irina</Name>
+      <Surname>Pokalchuk</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE1875BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Viktoria</Name>
       <Surname>Melnyk</Surname>
     </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA1748KA</CarNumber>
+    <CarName>Ford</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE1123AA</CarNumber>
     <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Samsonov</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AE8864KA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH9460AC</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA9753BA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Gaychuk</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>CB3541BA</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Kozachok</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK1477KA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Vlasenko</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH3082AC</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Parhomenko</Surname>
+    </taxist>
+    <CarName>Citroen</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE5008BK</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>CB1831BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>CB8911AE</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Samsonov</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BH8703KA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AE4001BC</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Vilenskiy</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH2698AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Mizavich</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB1344BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Koval</Surname>
+    </taxist>
+    <CarName>Citroen</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK3587CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Parhomenko</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AE1979BA</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Pokalchuk</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK4951BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH5847KA</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK9455AA</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Gaychuk</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AE6000KA</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Parhomenko</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE6049CK</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK7388BK</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Samsonov</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB4917CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE3434AE</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Gaychuk</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AE4422BC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Vlasenko</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AA1744KA</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Koval</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BH7849AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Vasilevichka</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AE6517AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Pokhulyk</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AA2901AE</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Ivan</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BH5629AC</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Mizavich</Surname>
+    </taxist>
+    <CarName>Citroen</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>CB7879CB</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AA5753CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Renault</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BK4511BK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE6843CB</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Mizavich</Surname>
+    </taxist>
+    <CarName>Citroen</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB8727AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
@@ -1145,59 +1061,143 @@
       <Name>Arthur</Name>
       <Surname>Galkin</Surname>
     </taxist>
-    <CarName>Renault</CarName>
+    <CarName>Citroen</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BK2699AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Porobko</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>AE6101AC</CarNumber>
+    <CarNumber>AE3683BC</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Ivan</Name>
+      <Surname>Melnyk</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH9001CK</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Koval</Surname>
+    </taxist>
+    <CarName>Ford</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AA6882KA</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Galkin</Surname>
+    </taxist>
+    <CarName>Citroen</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BK4703AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Gaychuk</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA6402BC</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
+    <IsWheelChair>true</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Sagaidachniy</Surname>
+    </taxist>
+    <CarName>Lada</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE8868AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>false</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
       <Name>Petro</Name>
-      <Surname>Kozachok</Surname>
+      <Surname>Mizavich</Surname>
     </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BH5783BK</CarNumber>
+    <CarName>Citroen</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BK3330CB</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
-    <IsChildSeat>true</IsChildSeat>
+    <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Stepan</Name>
-      <Surname>Kozachok</Surname>
+      <Name>Roma</Name>
+      <Surname>Gaychuk</Surname>
     </taxist>
-    <CarName>Lada</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB7324AC</CarNumber>
-    <NumberOfSeats>4</NumberOfSeats>
+    <CarName>Renault</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BH1448CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <IsChildSeat>false</IsChildSeat>
+    <IsWheelChair>false</IsWheelChair>
+  </EconomCar>
+  <EconomCar>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Parhomenko</Surname>
+    </taxist>
+    <CarName>Cherry</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK8872KA</CarNumber>
+    <NumberOfSeats>3</NumberOfSeats>
     <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>false</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Viktoria</Name>
-      <Surname>Koval</Surname>
+      <Name>Igor</Name>
+      <Surname>Mizavich</Surname>
     </taxist>
-    <CarName>Cherry</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BH5220KA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
+    <CarName>Lada</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>CB2447CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <IsChildSeat>false</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
   <EconomCar>
     <taxist>
-      <Name>Ivan</Name>
-      <Surname>Samsonov</Surname>
+      <Name>Vasil</Name>
+      <Surname>Pokhulyk</Surname>
     </taxist>
-    <CarName>Citroen</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BK9445CK</CarNumber>
-    <NumberOfSeats>3</NumberOfSeats>
-    <IsChildSeat>false</IsChildSeat>
+    <CarName>Renault</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AA5482AC</CarNumber>
+    <NumberOfSeats>4</NumberOfSeats>
+    <IsChildSeat>true</IsChildSeat>
     <IsWheelChair>true</IsWheelChair>
   </EconomCar>
 </ArrayOfEconomCar>
