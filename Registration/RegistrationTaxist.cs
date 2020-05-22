@@ -16,11 +16,42 @@ namespace TaxiService
     {
         Car car;
         Taxist taxist;
-        public RegistrationTaxist()
+        private bool IsEnglish { get; set; }
+        public RegistrationTaxist(bool isEnglish)
         {
             InitializeComponent();
             taxist = new Taxist();
+            IsEnglish = isEnglish;
+            if (IsEnglish)
+            {
+                labelName.Text = "Enter your name:";
+                labelSurname.Text = "Enter your surname:";
+                labelNickname.Text = "Enter your nickname:";
+                labelPassword.Text = "Enter your password:";
+                labelConfirmPassword.Text = "Confirm password:";
+                labelBirthday.Text = "Your birthday";
+                labelChoiceCar.Text = "Choice car:";
+                labelCarName.Text = "Car name:";
+                labelCarModel.Text = "Car model:";
+                labelCarNumber.Text = "Car number:";
+                buttonRegister.Text = "Register";
+            }
+            else
+            {
+                labelName.Text = "Введіть ім'я:";
+                labelSurname.Text = "Введіть призвіще:";
+                labelNickname.Text = "Введіть нікнейм:";
+                labelPassword.Text = "Введіть пароль:";
+                labelConfirmPassword.Text = "Підтвердіть пароль:";
+                labelBirthday.Text = "Дата вашого народження";
+                labelChoiceCar.Text = "Виберіть машину:";
+                labelCarName.Text = "Марка машини:";
+                labelCarModel.Text = "Модель машини:";
+                labelCarNumber.Text = "Серійний номер:";
+                buttonRegister.Text = "Реєстрація";
+            }
         }
+
         private void buttonRegister_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");
@@ -98,7 +129,7 @@ namespace TaxiService
                 comboBoxCarsType.Enabled = false;
 
                 this.Hide();
-                TaxistWorking taxistWorking = new TaxistWorking(car);
+                TaxistWorking taxistWorking = new TaxistWorking(car,IsEnglish);
                 taxistWorking.ShowDialog();
             }
             catch (Exception ex)
@@ -112,21 +143,23 @@ namespace TaxiService
             if (comboBoxCarsType.SelectedItem.ToString() == "Econom")
             {
                 car = new EconomCar();
-                TaxistEconomCarDetails economCarDetails = new TaxistEconomCarDetails(car);
+                TaxistEconomCarDetails economCarDetails = new TaxistEconomCarDetails(car,IsEnglish);
                 economCarDetails.ShowDialog();
             }
             else if (comboBoxCarsType.SelectedItem.ToString() == "Luxury")
             {
                 car = new LuxuryCar();
-                TaxistLuxuryCarDetails luxuryCarDetails = new TaxistLuxuryCarDetails(car);
+                TaxistLuxuryCarDetails luxuryCarDetails = new TaxistLuxuryCarDetails(car,IsEnglish);
                 luxuryCarDetails.ShowDialog();
             }
             else if (comboBoxCarsType.SelectedItem.ToString() == "Truck")
             {
                 car = new Truck();
-                TaxistTruckDetails truckDetails = new TaxistTruckDetails(car);
+                TaxistTruckDetails truckDetails = new TaxistTruckDetails(car,IsEnglish);
                 truckDetails.ShowDialog();
             }
         }
+
+    
     }
 }

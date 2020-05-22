@@ -14,12 +14,26 @@ namespace TaxiService
 {
     public partial class OrderTaxiForm : Form
     {
+        private bool IsEnglish { get; set; }
         Car car;
-        public OrderTaxiForm()
+        public OrderTaxiForm(bool isEnglish)
         {
             InitializeComponent();
             comboBoxCarsType.SelectedIndex = 0;
             car = new Car();
+            IsEnglish = isEnglish;
+            if (IsEnglish)
+            {
+                labelChoiceCar.Text = "Choice car:";
+                labelCurrentAdress.Text = "Current address:";
+                labelFinalAdress.Text = "Final address:";
+            }
+            else
+            {
+                labelChoiceCar.Text = "Вибір машини:";
+                labelCurrentAdress.Text = "Звідки:";
+                labelFinalAdress.Text = "Куди:";
+            }
         }
         private void buttonFindCar_Click(object sender, EventArgs e)
         {
@@ -33,7 +47,7 @@ namespace TaxiService
 
                 if (comboBoxCarsType.SelectedItem.ToString() == "Econom")
                 {
-                    UserEconomSettings economSettings = new UserEconomSettings();
+                    UserEconomSettings economSettings = new UserEconomSettings(IsEnglish);
                     if (economSettings.ShowDialog() == DialogResult.OK)
                     {
                         car = economSettings.economCar;
@@ -41,7 +55,7 @@ namespace TaxiService
                 }
                 else if (comboBoxCarsType.SelectedItem.ToString() == "Luxury")
                 {
-                    UserLuxurySettings luxurySettings = new UserLuxurySettings();
+                    UserLuxurySettings luxurySettings = new UserLuxurySettings(IsEnglish);
                     if(luxurySettings.ShowDialog() == DialogResult.OK)
                     {
                         car = luxurySettings.luxuryCar;
@@ -49,14 +63,14 @@ namespace TaxiService
                 }
                 else if (comboBoxCarsType.SelectedItem.ToString() == "Truck")
                 {
-                    UserTruckSettings truckSettings = new UserTruckSettings();
+                    UserTruckSettings truckSettings = new UserTruckSettings(IsEnglish);
                     if(truckSettings.ShowDialog()==DialogResult.OK)
                     {
                         car = truckSettings.truck;
                     }
                 }
                 this.Hide();
-                DetailsArrivalCar detailsArrivalCar = new DetailsArrivalCar(car);
+                DetailsArrivalCar detailsArrivalCar = new DetailsArrivalCar(car,IsEnglish);
                 detailsArrivalCar.ShowDialog();
                 this.Close();
             }

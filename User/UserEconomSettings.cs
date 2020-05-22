@@ -15,9 +15,21 @@ namespace TaxiService
     public partial class UserEconomSettings : Form
     {
         public EconomCar economCar;
-        public UserEconomSettings()
+        public UserEconomSettings(bool isEnglish)
         {
             InitializeComponent();
+            if(isEnglish)
+            {
+                labelPeople.Text = "People:";
+                checkBoxChildSeat.Text = "Child seat:";
+                checkBoxWheelChair.Text = "Wheel chair:";
+            }
+            else
+            {
+                labelPeople.Text = "К-сть людей:";
+                checkBoxChildSeat.Text = "Дитячий візок";
+                checkBoxWheelChair.Text = "Інвалідне крісло";
+            }
         }
         private void buttonFind_Click(object sender, EventArgs e)
         {

@@ -14,11 +14,27 @@ namespace TaxiService
 {
     public partial class LoginTaxist : Form
     {
+        private bool IsEnglish { get; set; }
         Car car;
-        public LoginTaxist()
+
+        public LoginTaxist(bool isEnglish)
         {
             InitializeComponent();
+            IsEnglish = isEnglish;
+            if (IsEnglish)
+            {
+                labelNickname.Text = "Enter your nickname";
+                labelPassword.Text = "Enter your password";
+                buttonLogin.Text = "Login";
+            }
+            else
+            {
+                labelNickname.Text = "Введіть ваш нікнейм";
+                labelPassword.Text = "Введіть ваш пароль";
+                buttonLogin.Text = "Увійти";
+            }
         }
+
         private void buttonLogin_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");
@@ -80,7 +96,7 @@ namespace TaxiService
                         car = (Truck)xmlSerializer.Deserialize(stream);
                     }
                 }
-                TaxistWorking taxistWorking = new TaxistWorking(car);
+                TaxistWorking taxistWorking = new TaxistWorking(car,IsEnglish);
                 taxistWorking.ShowDialog();
             }
             catch (Exception ex)
@@ -88,5 +104,6 @@ namespace TaxiService
                 MessageBox.Show(ex.Message);
             }
         }
+
     }
 }

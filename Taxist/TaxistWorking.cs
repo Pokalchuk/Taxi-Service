@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Guna.UI.WinForms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,11 +20,23 @@ namespace TaxiService
         public District district;
         public Car rightCar;
         public User user;
-        public TaxistWorking(Car car)
+        private bool IsEnglish { get; set; }
+        public TaxistWorking(Car car,bool isEnglish)
         {
             InitializeComponent();
             carTaxist = car;
             user = new User();
+            IsEnglish = isEnglish;
+            if (IsEnglish)
+            {
+                labelDistrict.Text = "District:";
+                buttonWork.Text = "Work";
+            }
+            else
+            {
+                labelDistrict.Text = "Район:";
+                buttonWork.Text = "Працювати";
+            }
         }
         private void buttonWork_Click(object sender, EventArgs e)
         {
@@ -65,7 +78,7 @@ namespace TaxiService
                 user = ((Truck)carTaxist).UserMatchTaxistWork(usersTruckBase, district);
             }
             this.Hide();
-            TaxistWorkInfo taxistWorkInfo = new TaxistWorkInfo(user);
+            TaxistWorkInfo taxistWorkInfo = new TaxistWorkInfo(user, IsEnglish);
             taxistWorkInfo.ShowDialog();
             this.Close();
         }

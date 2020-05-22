@@ -142,7 +142,7 @@
             this.numericUpDownAmountPeople.Font = new System.Drawing.Font("Jost Medium", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.numericUpDownAmountPeople.Location = new System.Drawing.Point(156, 49);
             this.numericUpDownAmountPeople.Maximum = new decimal(new int[] {
-            2,
+            4,
             0,
             0,
             0});
@@ -180,6 +180,7 @@
             this.Controls.Add(this.labelAmountSeats);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "TaxistEconomCarDetails";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TaxistEconomCarDetails";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownAmountPeople)).EndInit();
             this.ResumeLayout(false);

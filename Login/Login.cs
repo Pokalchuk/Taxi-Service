@@ -13,9 +13,21 @@ namespace TaxiService
 {
     public partial class Login : Form
     {
-        public Login()
+        public Login(bool isEnglish)
         {
             InitializeComponent();
+            if (isEnglish)
+            {
+                labelNickname.Text = "Enter your nickname";
+                labelPassword.Text = "Enter your password";
+                buttonLogin.Text = "Login";
+            }
+            else
+            {
+                labelNickname.Text = "Введіть ваш нікнейм";
+                labelPassword.Text = "Введіть ваш пароль";
+                buttonLogin.Text = "Увійти";
+            }
         }
         private void buttonLogin_Click(object sender, EventArgs e)
         {

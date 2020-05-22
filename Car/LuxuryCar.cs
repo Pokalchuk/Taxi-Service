@@ -31,7 +31,8 @@ namespace TaxiService
         {
             if (IsTv == car.IsTv &&
                 IsAlcohol == car.IsAlcohol &&
-                this.NumberOfSeats >= car.NumberOfSeats)
+                this.NumberOfSeats >= car.NumberOfSeats &&
+                  this.taxist.IsWorking == false)
             {
                 return this;
             }

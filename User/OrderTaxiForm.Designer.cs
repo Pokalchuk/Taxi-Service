@@ -209,6 +209,7 @@
             this.Controls.Add(this.labelChoiceCar);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "OrderTaxiForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Order form";
             this.ResumeLayout(false);
             this.PerformLayout();

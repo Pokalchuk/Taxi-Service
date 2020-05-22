@@ -13,10 +13,20 @@ namespace TaxiService
     public partial class TaxistTruckDetails : Form
     {
         Truck truck;
-        public TaxistTruckDetails(Car carMain)
+        public TaxistTruckDetails(Car carMain,bool isEnglish)
         {
             InitializeComponent();
             truck = (Truck)carMain;
+            if (isEnglish)
+            {
+                labelCargo.Text = "Max kilograms cargo:";
+                labelAmountSeats.Text = "Amount seats:";
+            }
+            else
+            {
+                labelCargo.Text = "Вантажопідйомність(кг):";
+                labelAmountSeats.Text = "К-сть сидінь:";
+            }
         }
         private void buttonOk_Click(object sender, EventArgs e)
         {
@@ -33,5 +43,6 @@ namespace TaxiService
         {
             Sound.MakeSound("Click");
         }
+
     }
 }

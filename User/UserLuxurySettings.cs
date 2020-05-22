@@ -15,9 +15,21 @@ namespace TaxiService
     public partial class UserLuxurySettings : Form
     {
         public LuxuryCar luxuryCar;
-        public UserLuxurySettings()
+        public UserLuxurySettings(bool isEnglish)
         {
             InitializeComponent();
+            if (isEnglish)
+            {
+                label1.Text = "People:";
+                checkBoxTv.Text = "TV";
+                checkBoxAlcohol.Text = "Alcohol";
+            }
+            else
+            {
+                label1.Text = "К-сть людей:";
+                checkBoxTv.Text = "Телевізор";
+                checkBoxAlcohol.Text = "Алкоголь";
+            }
         }
         private void buttonFind_Click(object sender, EventArgs e)
         {

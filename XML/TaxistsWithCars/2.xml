@@ -2,13 +2,14 @@
 <LuxuryCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <taxist>
     <Name>2</Name>
-    <Surname>2</Surname>
+    <Surname>1</Surname>
+    <IsWorking>false</IsWorking>
     <Nickname>2</Nickname>
-    <Password>2</Password>
+    <Password>1</Password>
   </taxist>
-  <CarName>2</CarName>
-  <CarModel>2</CarModel>
-  <CarNumber>2</CarNumber>
+  <CarName>1</CarName>
+  <CarModel>1</CarModel>
+  <CarNumber>1</CarNumber>
   <NumberOfSeats>2</NumberOfSeats>
   <IsTv>true</IsTv>
   <IsAlcohol>true</IsAlcohol>

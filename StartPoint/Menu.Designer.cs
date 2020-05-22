@@ -39,6 +39,7 @@
             this.gunaControlBox1 = new Guna.UI.WinForms.GunaControlBox();
             this.gunaDragControl1 = new Guna.UI.WinForms.GunaDragControl(this.components);
             this.gunaPictureBox1 = new Guna.UI.WinForms.GunaPictureBox();
+            this.gunaCheckBox1 = new Guna.UI.WinForms.GunaCheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.gunaPictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -54,14 +55,14 @@
             this.buttonLogin.ForeColor = System.Drawing.Color.White;
             this.buttonLogin.Image = null;
             this.buttonLogin.ImageSize = new System.Drawing.Size(20, 20);
-            this.buttonLogin.Location = new System.Drawing.Point(146, 236);
+            this.buttonLogin.Location = new System.Drawing.Point(150, 259);
             this.buttonLogin.Name = "buttonLogin";
             this.buttonLogin.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.buttonLogin.OnHoverBorderColor = System.Drawing.Color.Black;
             this.buttonLogin.OnHoverForeColor = System.Drawing.Color.White;
             this.buttonLogin.OnHoverImage = null;
             this.buttonLogin.OnPressedColor = System.Drawing.Color.Black;
-            this.buttonLogin.Size = new System.Drawing.Size(128, 33);
+            this.buttonLogin.Size = new System.Drawing.Size(154, 33);
             this.buttonLogin.TabIndex = 18;
             this.buttonLogin.Text = "Login";
             this.buttonLogin.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -79,14 +80,14 @@
             this.buttonRegistration.ForeColor = System.Drawing.Color.White;
             this.buttonRegistration.Image = null;
             this.buttonRegistration.ImageSize = new System.Drawing.Size(20, 20);
-            this.buttonRegistration.Location = new System.Drawing.Point(333, 236);
+            this.buttonRegistration.Location = new System.Drawing.Point(329, 259);
             this.buttonRegistration.Name = "buttonRegistration";
             this.buttonRegistration.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.buttonRegistration.OnHoverBorderColor = System.Drawing.Color.Black;
             this.buttonRegistration.OnHoverForeColor = System.Drawing.Color.White;
             this.buttonRegistration.OnHoverImage = null;
             this.buttonRegistration.OnPressedColor = System.Drawing.Color.Black;
-            this.buttonRegistration.Size = new System.Drawing.Size(128, 33);
+            this.buttonRegistration.Size = new System.Drawing.Size(148, 33);
             this.buttonRegistration.TabIndex = 19;
             this.buttonRegistration.Text = "Registration";
             this.buttonRegistration.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -100,9 +101,9 @@
             this.radioButtonUser.FillColor = System.Drawing.Color.White;
             this.radioButtonUser.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.radioButtonUser.ForeColor = System.Drawing.Color.White;
-            this.radioButtonUser.Location = new System.Drawing.Point(175, 191);
+            this.radioButtonUser.Location = new System.Drawing.Point(164, 214);
             this.radioButtonUser.Name = "radioButtonUser";
-            this.radioButtonUser.Size = new System.Drawing.Size(59, 20);
+            this.radioButtonUser.Size = new System.Drawing.Size(71, 28);
             this.radioButtonUser.TabIndex = 20;
             this.radioButtonUser.Text = "User";
             // 
@@ -114,7 +115,7 @@
             this.radioButtonTaxist.FillColor = System.Drawing.Color.White;
             this.radioButtonTaxist.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.radioButtonTaxist.ForeColor = System.Drawing.Color.White;
-            this.radioButtonTaxist.Location = new System.Drawing.Point(360, 191);
+            this.radioButtonTaxist.Location = new System.Drawing.Point(369, 214);
             this.radioButtonTaxist.Name = "radioButtonTaxist";
             this.radioButtonTaxist.Size = new System.Drawing.Size(84, 28);
             this.radioButtonTaxist.TabIndex = 21;
@@ -124,8 +125,8 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(150, 9);
+            this.label1.ForeColor = System.Drawing.Color.MediumPurple;
+            this.label1.Location = new System.Drawing.Point(150, 22);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(327, 81);
             this.label1.TabIndex = 22;
@@ -170,12 +171,28 @@
             // 
             this.gunaPictureBox1.BaseColor = System.Drawing.Color.White;
             this.gunaPictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("gunaPictureBox1.Image")));
-            this.gunaPictureBox1.Location = new System.Drawing.Point(150, 80);
+            this.gunaPictureBox1.Location = new System.Drawing.Point(150, 103);
             this.gunaPictureBox1.Name = "gunaPictureBox1";
             this.gunaPictureBox1.Size = new System.Drawing.Size(327, 105);
             this.gunaPictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.gunaPictureBox1.TabIndex = 39;
             this.gunaPictureBox1.TabStop = false;
+            // 
+            // gunaCheckBox1
+            // 
+            this.gunaCheckBox1.BaseColor = System.Drawing.Color.White;
+            this.gunaCheckBox1.Checked = true;
+            this.gunaCheckBox1.CheckedOffColor = System.Drawing.Color.Gray;
+            this.gunaCheckBox1.CheckedOnColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.gunaCheckBox1.FillColor = System.Drawing.Color.White;
+            this.gunaCheckBox1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.gunaCheckBox1.ForeColor = System.Drawing.Color.White;
+            this.gunaCheckBox1.Location = new System.Drawing.Point(506, 295);
+            this.gunaCheckBox1.Name = "gunaCheckBox1";
+            this.gunaCheckBox1.Size = new System.Drawing.Size(94, 28);
+            this.gunaCheckBox1.TabIndex = 72;
+            this.gunaCheckBox1.Text = "English";
+            this.gunaCheckBox1.CheckedChanged += new System.EventHandler(this.gunaCheckBox1_CheckedChanged);
             // 
             // Menu
             // 
@@ -183,6 +200,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(25)))), ((int)(((byte)(29)))));
             this.ClientSize = new System.Drawing.Size(612, 335);
+            this.Controls.Add(this.gunaCheckBox1);
             this.Controls.Add(this.gunaPictureBox1);
             this.Controls.Add(this.gunaControlBox2);
             this.Controls.Add(this.gunaControlBox1);
@@ -193,6 +211,7 @@
             this.Controls.Add(this.buttonLogin);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Menu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
             ((System.ComponentModel.ISupportInitialize)(this.gunaPictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -210,5 +229,6 @@
         private Guna.UI.WinForms.GunaControlBox gunaControlBox1;
         private Guna.UI.WinForms.GunaDragControl gunaDragControl1;
         private Guna.UI.WinForms.GunaPictureBox gunaPictureBox1;
+        private Guna.UI.WinForms.GunaCheckBox gunaCheckBox1;
     }
 }

@@ -12,12 +12,14 @@ namespace TaxiService
         public string Nickname { get; set; }
         public string Password { get; set; }
         public Car car;
+        public bool IsWorking;
         public Taxist() : base()
         {
             Nickname = "";
             Password = "";
             car = null;
+            IsWorking = false;
         }
-        public Taxist(string name, string surname) : base(name, surname) { car = null; }
+        public Taxist(string name, string surname,bool isWorking) : base(name, surname) { car = null; IsWorking = isWorking; }
     }
 }

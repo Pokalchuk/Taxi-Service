@@ -126,7 +126,7 @@
             this.textBoxPassword.FocusedForeColor = System.Drawing.Color.White;
             this.textBoxPassword.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxPassword.ForeColor = System.Drawing.Color.White;
-            this.textBoxPassword.Location = new System.Drawing.Point(480, 218);
+            this.textBoxPassword.Location = new System.Drawing.Point(480, 221);
             this.textBoxPassword.Name = "textBoxPassword";
             this.textBoxPassword.PasswordChar = '●';
             this.textBoxPassword.SelectedText = "";
@@ -145,7 +145,7 @@
             this.textBoxNickname.FocusedForeColor = System.Drawing.Color.White;
             this.textBoxNickname.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxNickname.ForeColor = System.Drawing.Color.White;
-            this.textBoxNickname.Location = new System.Drawing.Point(480, 104);
+            this.textBoxNickname.Location = new System.Drawing.Point(480, 107);
             this.textBoxNickname.Name = "textBoxNickname";
             this.textBoxNickname.PasswordChar = '\0';
             this.textBoxNickname.SelectedText = "";
@@ -164,7 +164,7 @@
             this.buttonLogin.ForeColor = System.Drawing.Color.White;
             this.buttonLogin.Image = null;
             this.buttonLogin.ImageSize = new System.Drawing.Size(20, 20);
-            this.buttonLogin.Location = new System.Drawing.Point(480, 303);
+            this.buttonLogin.Location = new System.Drawing.Point(480, 306);
             this.buttonLogin.Name = "buttonLogin";
             this.buttonLogin.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.buttonLogin.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -182,7 +182,7 @@
             this.labelPassword.AutoSize = true;
             this.labelPassword.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelPassword.ForeColor = System.Drawing.Color.White;
-            this.labelPassword.Location = new System.Drawing.Point(475, 176);
+            this.labelPassword.Location = new System.Drawing.Point(475, 179);
             this.labelPassword.Name = "labelPassword";
             this.labelPassword.Size = new System.Drawing.Size(206, 25);
             this.labelPassword.TabIndex = 27;
@@ -239,7 +239,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(25)))), ((int)(((byte)(29)))));
-            this.ClientSize = new System.Drawing.Size(785, 422);
+            this.ClientSize = new System.Drawing.Size(785, 415);
             this.Controls.Add(this.gunaControlBox3);
             this.Controls.Add(this.gunaControlBox4);
             this.Controls.Add(this.gunaPanel1);
@@ -252,6 +252,7 @@
             this.Controls.Add(this.labelNickname);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "LoginTaxist";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "LoginTaxist";
             this.gunaPanel1.ResumeLayout(false);
             this.gunaPanel1.PerformLayout();

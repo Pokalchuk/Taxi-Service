@@ -66,4 +66,3 @@ F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\obj\Debug\TaxiServic
 F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\obj\Debug\TaxiService.exe
 F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\obj\Debug\TaxiService.pdb
 F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\obj\Debug\TaxiService.csproj.CopyComplete
-F:\WinForms\TaxiServiceMainLast\TaxiServiceMain\TaxiService\obj\Debug\TaxiService.Form2.resources

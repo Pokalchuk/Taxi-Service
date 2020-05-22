@@ -275,6 +275,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "DetailsArrivalCar";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "DetailsArrivalCar";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCar)).EndInit();
             this.ResumeLayout(false);

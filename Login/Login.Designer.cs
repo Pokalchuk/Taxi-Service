@@ -217,6 +217,7 @@
             this.Controls.Add(this.labelNickname);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             this.gunaPanel1.ResumeLayout(false);
             this.gunaPanel1.PerformLayout();

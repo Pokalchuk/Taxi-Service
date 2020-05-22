@@ -28,7 +28,8 @@ namespace TaxiService
         public Truck IsMatch(Truck car)
         {
             if (this.MaxKilogramsOfCargo >= car.KilogramsCargo &&
-                this.NumberOfSeats >= car.NumberOfSeats)
+                this.NumberOfSeats >= car.NumberOfSeats &&
+                  this.taxist.IsWorking == false)
             {
                 return this;
             }

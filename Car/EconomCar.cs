@@ -32,7 +32,8 @@ namespace TaxiService
         {
             if (IsChildSeat == car.IsChildSeat &&
                 IsWheelChair == car.IsWheelChair &&
-                this.NumberOfSeats >= car.NumberOfSeats)
+                this.NumberOfSeats >= car.NumberOfSeats &&
+                this.taxist.IsWorking == false)
             {
                 return this;
             }

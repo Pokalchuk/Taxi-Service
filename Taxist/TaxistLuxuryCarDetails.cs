@@ -13,10 +13,22 @@ namespace TaxiService
     public partial class TaxistLuxuryCarDetails : Form
     {
         LuxuryCar car;
-        public TaxistLuxuryCarDetails(Car mainCar)
+        public TaxistLuxuryCarDetails(Car mainCar,bool isEnglish)
         {
             InitializeComponent();
             car = (LuxuryCar)mainCar;
+            if (isEnglish)
+            {
+                labelAmountSeats.Text = "Amount seats:";
+                checkBoxTv.Text = "TV";
+                checkBoxAlcohol.Text = "Alcohol";
+            }
+            else
+            {
+                labelAmountSeats.Text = "К-сть сидінь:";
+                checkBoxTv.Text = "Телевізор";
+                checkBoxAlcohol.Text = "Алкоголь";
+            }
         }
         private void buttonOk_Click(object sender, EventArgs e)
         {
@@ -38,5 +50,7 @@ namespace TaxiService
         {
             Sound.MakeSound("Click");
         }
+
+       
     }
 }

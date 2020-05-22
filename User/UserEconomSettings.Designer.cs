@@ -43,7 +43,7 @@
             // numericUpDownAmountPeople
             // 
             this.numericUpDownAmountPeople.Font = new System.Drawing.Font("Jost Medium", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.numericUpDownAmountPeople.Location = new System.Drawing.Point(129, 46);
+            this.numericUpDownAmountPeople.Location = new System.Drawing.Point(184, 48);
             this.numericUpDownAmountPeople.Maximum = new decimal(new int[] {
             4,
             0,
@@ -180,6 +180,7 @@
             this.Controls.Add(this.numericUpDownAmountPeople);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "UserEconomSettings";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EconomSettings";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownAmountPeople)).EndInit();
             this.ResumeLayout(false);

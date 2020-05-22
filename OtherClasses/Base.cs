@@ -78,7 +78,7 @@ namespace TaxiService
             List<Taxist> taxists = new List<Taxist>(AmountTaxists);
             for (int i = 0; i < taxists.Capacity; ++i)
             {
-                taxists.Add(new Taxist(rand.RandomName(), rand.RandomSurname()));
+                taxists.Add(new Taxist(rand.RandomName(), rand.RandomSurname(),rand.NextBool()));
             }
 
             List<EconomCar> economCars = new List<EconomCar>(AmountCars);

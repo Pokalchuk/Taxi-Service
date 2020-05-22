@@ -148,7 +148,7 @@
             this.labelBirthday.AutoSize = true;
             this.labelBirthday.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelBirthday.ForeColor = System.Drawing.Color.White;
-            this.labelBirthday.Location = new System.Drawing.Point(608, 151);
+            this.labelBirthday.Location = new System.Drawing.Point(562, 150);
             this.labelBirthday.Name = "labelBirthday";
             this.labelBirthday.Size = new System.Drawing.Size(135, 25);
             this.labelBirthday.TabIndex = 37;
@@ -199,7 +199,7 @@
             this.labelConfirmPassword.AutoSize = true;
             this.labelConfirmPassword.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelConfirmPassword.ForeColor = System.Drawing.Color.White;
-            this.labelConfirmPassword.Location = new System.Drawing.Point(483, 293);
+            this.labelConfirmPassword.Location = new System.Drawing.Point(474, 293);
             this.labelConfirmPassword.Name = "labelConfirmPassword";
             this.labelConfirmPassword.Size = new System.Drawing.Size(185, 25);
             this.labelConfirmPassword.TabIndex = 42;
@@ -340,6 +340,7 @@
             this.Controls.Add(this.dateTimePicker1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Registration";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Registration";
             this.gunaPanel1.ResumeLayout(false);
             this.gunaPanel1.PerformLayout();

@@ -57,7 +57,7 @@ namespace TaxiService
             }
             else{ return 0; }
         }
-        public DetailsArrivalCar(Car _car)
+        public DetailsArrivalCar(Car _car,bool isEnglish)
         {
             InitializeComponent();
             car = _car;
@@ -85,6 +85,26 @@ namespace TaxiService
                 image = Image.FromFile($@"..\..\Images\Truck.jpg");
             }
             pictureBoxCar.Image = image;
+
+            if(isEnglish)
+            {
+                labelCarName.Text = "Car name:";
+                labelCarModel.Text = "Car model:";
+                labelCarNumber.Text = "Car number:";
+                labelTaxistName.Text = "Taxist name:";
+                labelArrivalTime.Text = "Arrival time:";
+                labelPrice.Text = "Price:";
+                 
+            }
+            else
+            {
+                labelCarName.Text = "Марка:";
+                labelCarModel.Text = "Модель:";
+                labelCarNumber.Text = "Номер:";
+                labelTaxistName.Text = "Ім'я таксиста:";
+                labelArrivalTime.Text = "Час прибуття:";
+                labelPrice.Text = "Ціна:";
+            }
 
         }
         private void buttonOkay_Click(object sender, EventArgs e)

@@ -25,9 +25,9 @@ namespace TaxiService
             if (radioButtonUser.Checked)
             {
                 this.Hide();
-                Login login = new Login();
+                Login login = new Login(gunaCheckBox1.Checked);
                 login.ShowDialog();
-                OrderTaxiForm orderTaxi = new OrderTaxiForm();
+                OrderTaxiForm orderTaxi = new OrderTaxiForm(gunaCheckBox1.Checked);
                 orderTaxi.ShowDialog();
 
                 this.Close();
@@ -35,7 +35,7 @@ namespace TaxiService
             else
             {
                 this.Hide();
-                LoginTaxist loginTaxist = new LoginTaxist();
+                LoginTaxist loginTaxist = new LoginTaxist(gunaCheckBox1.Checked);
                 loginTaxist.ShowDialog();
 
                 this.Close();
@@ -49,9 +49,9 @@ namespace TaxiService
             if (radioButtonUser.Checked)
             {
                 this.Hide();
-                Registration registration = new Registration();
+                Registration registration = new Registration(gunaCheckBox1.Checked);
                 registration.ShowDialog();
-                OrderTaxiForm orderTaxi = new OrderTaxiForm();
+                OrderTaxiForm orderTaxi = new OrderTaxiForm(gunaCheckBox1.Checked);
                 orderTaxi.ShowDialog();
 
                 this.Close();
@@ -59,11 +59,31 @@ namespace TaxiService
             else
             {
                 this.Hide();
-                RegistrationTaxist registrationTaxist = new RegistrationTaxist();
+                RegistrationTaxist registrationTaxist = new RegistrationTaxist(gunaCheckBox1.Checked);
                 registrationTaxist.ShowDialog();
                 this.Close();
             }
           
+        }
+
+        private void gunaCheckBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if(gunaCheckBox1.Checked)
+            {
+                label1.Text = "WELCOME";
+                buttonLogin.Text = "Login";
+                buttonRegistration.Text = "Registration";
+                radioButtonUser.Text = "User";
+                radioButtonTaxist.Text = "Taxist";
+            }
+            else
+            {
+                label1.Text = "ВІТАЄМО";
+                buttonLogin.Text = "Увійти";
+                buttonRegistration.Text = "Реєстрація";
+                radioButtonUser.Text = "Користувач";
+                radioButtonTaxist.Text = "Таксист";
+            }
         }
     }
 }

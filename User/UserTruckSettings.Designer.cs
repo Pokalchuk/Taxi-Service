@@ -189,6 +189,7 @@
             this.Controls.Add(this.numericUpDownAmountPeople);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "UserTruckSettings";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TruckSettings";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownAmountPeople)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownCargo)).EndInit();

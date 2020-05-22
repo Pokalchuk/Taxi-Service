@@ -15,9 +15,19 @@ namespace TaxiService
     public partial class UserTruckSettings : Form
     {
         public Truck truck;
-        public UserTruckSettings()
+        public UserTruckSettings(bool isEnglish)
         {
             InitializeComponent();
+            if (isEnglish)
+            {
+                labelCargo.Text = "Max kilograms cargo:";
+                labelPeople.Text = "People:";
+            }
+            else
+            {
+                labelCargo.Text = "Вантажопідйомність(кг):";
+                labelPeople.Text = "К-сть людей:";
+            }
         }
         private void buttonFind_Click(object sender, EventArgs e)
         {

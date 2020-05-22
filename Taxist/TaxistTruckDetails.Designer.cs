@@ -191,6 +191,7 @@
             this.Controls.Add(this.numericUpDownAmountPeople);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "TaxistTruckDetails";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TaxistTruckDetails";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownCargo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownAmountPeople)).EndInit();

@@ -32,7 +32,7 @@
             this.buttonOk = new Guna.UI.WinForms.GunaButton();
             this.checkBoxAlcohol = new Guna.UI.WinForms.GunaCheckBox();
             this.checkBoxTv = new Guna.UI.WinForms.GunaCheckBox();
-            this.label1 = new System.Windows.Forms.Label();
+            this.labelAmountSeats = new System.Windows.Forms.Label();
             this.gunaControlBox2 = new Guna.UI.WinForms.GunaControlBox();
             this.gunaControlBox1 = new Guna.UI.WinForms.GunaControlBox();
             this.numericUpDownAmountPeople = new System.Windows.Forms.NumericUpDown();
@@ -95,16 +95,16 @@
             this.checkBoxTv.Text = "TV";
             this.checkBoxTv.CheckedChanged += new System.EventHandler(this.checkBoxTv_CheckedChanged);
             // 
-            // label1
+            // labelAmountSeats
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(12, 45);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(138, 25);
-            this.label1.TabIndex = 30;
-            this.label1.Text = "Amount seats:";
+            this.labelAmountSeats.AutoSize = true;
+            this.labelAmountSeats.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelAmountSeats.ForeColor = System.Drawing.Color.White;
+            this.labelAmountSeats.Location = new System.Drawing.Point(12, 45);
+            this.labelAmountSeats.Name = "labelAmountSeats";
+            this.labelAmountSeats.Size = new System.Drawing.Size(138, 25);
+            this.labelAmountSeats.TabIndex = 30;
+            this.labelAmountSeats.Text = "Amount seats:";
             // 
             // gunaControlBox2
             // 
@@ -177,9 +177,10 @@
             this.Controls.Add(this.buttonOk);
             this.Controls.Add(this.checkBoxAlcohol);
             this.Controls.Add(this.checkBoxTv);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.labelAmountSeats);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "TaxistLuxuryCarDetails";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TaxistLuxuryCarDetails";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownAmountPeople)).EndInit();
             this.ResumeLayout(false);
@@ -191,7 +192,7 @@
         private Guna.UI.WinForms.GunaButton buttonOk;
         private Guna.UI.WinForms.GunaCheckBox checkBoxAlcohol;
         private Guna.UI.WinForms.GunaCheckBox checkBoxTv;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label labelAmountSeats;
         private Guna.UI.WinForms.GunaControlBox gunaControlBox2;
         private Guna.UI.WinForms.GunaControlBox gunaControlBox1;
         private System.Windows.Forms.NumericUpDown numericUpDownAmountPeople;

@@ -146,6 +146,7 @@
             this.Controls.Add(this.labelDistrict);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "TaxistWorking";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TaxistWorking";
             this.ResumeLayout(false);
             this.PerformLayout();

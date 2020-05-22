@@ -34,20 +34,20 @@
             this.gunaControlBox1 = new Guna.UI.WinForms.GunaControlBox();
             this.buttonRegister = new Guna.UI.WinForms.GunaButton();
             this.textBoxConfirmPass = new Guna.UI.WinForms.GunaTextBox();
-            this.gunaLabel1 = new Guna.UI.WinForms.GunaLabel();
+            this.labelConfirmPassword = new Guna.UI.WinForms.GunaLabel();
             this.textBoxNickname = new Guna.UI.WinForms.GunaTextBox();
-            this.gunaLabel2 = new Guna.UI.WinForms.GunaLabel();
-            this.gunaLabel3 = new Guna.UI.WinForms.GunaLabel();
-            this.gunaLabel4 = new Guna.UI.WinForms.GunaLabel();
+            this.labelPassword = new Guna.UI.WinForms.GunaLabel();
+            this.labelNickname = new Guna.UI.WinForms.GunaLabel();
+            this.labelBirthday = new Guna.UI.WinForms.GunaLabel();
             this.textBoxSurname = new Guna.UI.WinForms.GunaTextBox();
-            this.gunaLabel5 = new Guna.UI.WinForms.GunaLabel();
+            this.labelSurname = new Guna.UI.WinForms.GunaLabel();
             this.textBoxName = new Guna.UI.WinForms.GunaTextBox();
             this.textBoxPassword = new Guna.UI.WinForms.GunaTextBox();
-            this.gunaLabel6 = new Guna.UI.WinForms.GunaLabel();
-            this.gunaLabel7 = new Guna.UI.WinForms.GunaLabel();
-            this.gunaLabel8 = new Guna.UI.WinForms.GunaLabel();
-            this.gunaLabel9 = new Guna.UI.WinForms.GunaLabel();
-            this.gunaLabel10 = new Guna.UI.WinForms.GunaLabel();
+            this.labelName = new Guna.UI.WinForms.GunaLabel();
+            this.labelChoiceCar = new Guna.UI.WinForms.GunaLabel();
+            this.labelCarModel = new Guna.UI.WinForms.GunaLabel();
+            this.labelCarName = new Guna.UI.WinForms.GunaLabel();
+            this.labelCarNumber = new Guna.UI.WinForms.GunaLabel();
             this.textBoxCarName = new Guna.UI.WinForms.GunaTextBox();
             this.textBoxCarModel = new Guna.UI.WinForms.GunaTextBox();
             this.textBoxCarNumber = new Guna.UI.WinForms.GunaTextBox();
@@ -110,7 +110,7 @@
             this.buttonRegister.ForeColor = System.Drawing.Color.White;
             this.buttonRegister.Image = null;
             this.buttonRegister.ImageSize = new System.Drawing.Size(20, 20);
-            this.buttonRegister.Location = new System.Drawing.Point(622, 539);
+            this.buttonRegister.Location = new System.Drawing.Point(605, 526);
             this.buttonRegister.Name = "buttonRegister";
             this.buttonRegister.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.buttonRegister.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -134,7 +134,7 @@
             this.textBoxConfirmPass.FocusedForeColor = System.Drawing.Color.White;
             this.textBoxConfirmPass.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxConfirmPass.ForeColor = System.Drawing.Color.White;
-            this.textBoxConfirmPass.Location = new System.Drawing.Point(848, 251);
+            this.textBoxConfirmPass.Location = new System.Drawing.Point(830, 249);
             this.textBoxConfirmPass.Name = "textBoxConfirmPass";
             this.textBoxConfirmPass.PasswordChar = '●';
             this.textBoxConfirmPass.SelectedText = "";
@@ -142,16 +142,16 @@
             this.textBoxConfirmPass.TabIndex = 58;
             this.textBoxConfirmPass.UseSystemPasswordChar = true;
             // 
-            // gunaLabel1
+            // labelConfirmPassword
             // 
-            this.gunaLabel1.AutoSize = true;
-            this.gunaLabel1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.gunaLabel1.ForeColor = System.Drawing.Color.White;
-            this.gunaLabel1.Location = new System.Drawing.Point(618, 251);
-            this.gunaLabel1.Name = "gunaLabel1";
-            this.gunaLabel1.Size = new System.Drawing.Size(185, 25);
-            this.gunaLabel1.TabIndex = 57;
-            this.gunaLabel1.Text = "Confirm password: ";
+            this.labelConfirmPassword.AutoSize = true;
+            this.labelConfirmPassword.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelConfirmPassword.ForeColor = System.Drawing.Color.White;
+            this.labelConfirmPassword.Location = new System.Drawing.Point(600, 249);
+            this.labelConfirmPassword.Name = "labelConfirmPassword";
+            this.labelConfirmPassword.Size = new System.Drawing.Size(185, 25);
+            this.labelConfirmPassword.TabIndex = 57;
+            this.labelConfirmPassword.Text = "Confirm password: ";
             // 
             // textBoxNickname
             // 
@@ -165,45 +165,45 @@
             this.textBoxNickname.FocusedForeColor = System.Drawing.Color.White;
             this.textBoxNickname.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxNickname.ForeColor = System.Drawing.Color.White;
-            this.textBoxNickname.Location = new System.Drawing.Point(848, 174);
+            this.textBoxNickname.Location = new System.Drawing.Point(830, 172);
             this.textBoxNickname.Name = "textBoxNickname";
             this.textBoxNickname.PasswordChar = '\0';
             this.textBoxNickname.SelectedText = "";
             this.textBoxNickname.Size = new System.Drawing.Size(189, 34);
             this.textBoxNickname.TabIndex = 56;
             // 
-            // gunaLabel2
+            // labelPassword
             // 
-            this.gunaLabel2.AutoSize = true;
-            this.gunaLabel2.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.gunaLabel2.ForeColor = System.Drawing.Color.White;
-            this.gunaLabel2.Location = new System.Drawing.Point(618, 211);
-            this.gunaLabel2.Name = "gunaLabel2";
-            this.gunaLabel2.Size = new System.Drawing.Size(206, 25);
-            this.gunaLabel2.TabIndex = 55;
-            this.gunaLabel2.Text = "Enter your password: ";
+            this.labelPassword.AutoSize = true;
+            this.labelPassword.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelPassword.ForeColor = System.Drawing.Color.White;
+            this.labelPassword.Location = new System.Drawing.Point(600, 209);
+            this.labelPassword.Name = "labelPassword";
+            this.labelPassword.Size = new System.Drawing.Size(206, 25);
+            this.labelPassword.TabIndex = 55;
+            this.labelPassword.Text = "Enter your password: ";
             // 
-            // gunaLabel3
+            // labelNickname
             // 
-            this.gunaLabel3.AutoSize = true;
-            this.gunaLabel3.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.gunaLabel3.ForeColor = System.Drawing.Color.White;
-            this.gunaLabel3.Location = new System.Drawing.Point(617, 175);
-            this.gunaLabel3.Name = "gunaLabel3";
-            this.gunaLabel3.Size = new System.Drawing.Size(207, 25);
-            this.gunaLabel3.TabIndex = 54;
-            this.gunaLabel3.Text = "Enter your nickname: ";
+            this.labelNickname.AutoSize = true;
+            this.labelNickname.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelNickname.ForeColor = System.Drawing.Color.White;
+            this.labelNickname.Location = new System.Drawing.Point(599, 173);
+            this.labelNickname.Name = "labelNickname";
+            this.labelNickname.Size = new System.Drawing.Size(207, 25);
+            this.labelNickname.TabIndex = 54;
+            this.labelNickname.Text = "Enter your nickname: ";
             // 
-            // gunaLabel4
+            // labelBirthday
             // 
-            this.gunaLabel4.AutoSize = true;
-            this.gunaLabel4.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.gunaLabel4.ForeColor = System.Drawing.Color.White;
-            this.gunaLabel4.Location = new System.Drawing.Point(752, 109);
-            this.gunaLabel4.Name = "gunaLabel4";
-            this.gunaLabel4.Size = new System.Drawing.Size(135, 25);
-            this.gunaLabel4.TabIndex = 53;
-            this.gunaLabel4.Text = "Your birthday";
+            this.labelBirthday.AutoSize = true;
+            this.labelBirthday.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelBirthday.ForeColor = System.Drawing.Color.White;
+            this.labelBirthday.Location = new System.Drawing.Point(713, 107);
+            this.labelBirthday.Name = "labelBirthday";
+            this.labelBirthday.Size = new System.Drawing.Size(135, 25);
+            this.labelBirthday.TabIndex = 53;
+            this.labelBirthday.Text = "Your birthday";
             // 
             // textBoxSurname
             // 
@@ -216,23 +216,23 @@
             this.textBoxSurname.FocusedForeColor = System.Drawing.Color.White;
             this.textBoxSurname.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxSurname.ForeColor = System.Drawing.Color.White;
-            this.textBoxSurname.Location = new System.Drawing.Point(848, 72);
+            this.textBoxSurname.Location = new System.Drawing.Point(830, 70);
             this.textBoxSurname.Name = "textBoxSurname";
             this.textBoxSurname.PasswordChar = '\0';
             this.textBoxSurname.SelectedText = "";
             this.textBoxSurname.Size = new System.Drawing.Size(189, 34);
             this.textBoxSurname.TabIndex = 52;
             // 
-            // gunaLabel5
+            // labelSurname
             // 
-            this.gunaLabel5.AutoSize = true;
-            this.gunaLabel5.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.gunaLabel5.ForeColor = System.Drawing.Color.White;
-            this.gunaLabel5.Location = new System.Drawing.Point(617, 77);
-            this.gunaLabel5.Name = "gunaLabel5";
-            this.gunaLabel5.Size = new System.Drawing.Size(198, 25);
-            this.gunaLabel5.TabIndex = 51;
-            this.gunaLabel5.Text = "Enter your surname: ";
+            this.labelSurname.AutoSize = true;
+            this.labelSurname.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelSurname.ForeColor = System.Drawing.Color.White;
+            this.labelSurname.Location = new System.Drawing.Point(599, 75);
+            this.labelSurname.Name = "labelSurname";
+            this.labelSurname.Size = new System.Drawing.Size(198, 25);
+            this.labelSurname.TabIndex = 51;
+            this.labelSurname.Text = "Enter your surname: ";
             // 
             // textBoxName
             // 
@@ -245,7 +245,7 @@
             this.textBoxName.FocusedForeColor = System.Drawing.Color.White;
             this.textBoxName.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxName.ForeColor = System.Drawing.Color.White;
-            this.textBoxName.Location = new System.Drawing.Point(848, 34);
+            this.textBoxName.Location = new System.Drawing.Point(830, 32);
             this.textBoxName.Name = "textBoxName";
             this.textBoxName.PasswordChar = '\0';
             this.textBoxName.SelectedText = "";
@@ -263,7 +263,7 @@
             this.textBoxPassword.FocusedForeColor = System.Drawing.Color.White;
             this.textBoxPassword.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxPassword.ForeColor = System.Drawing.Color.White;
-            this.textBoxPassword.Location = new System.Drawing.Point(848, 211);
+            this.textBoxPassword.Location = new System.Drawing.Point(830, 209);
             this.textBoxPassword.Name = "textBoxPassword";
             this.textBoxPassword.PasswordChar = '●';
             this.textBoxPassword.SelectedText = "";
@@ -271,60 +271,60 @@
             this.textBoxPassword.TabIndex = 49;
             this.textBoxPassword.UseSystemPasswordChar = true;
             // 
-            // gunaLabel6
+            // labelName
             // 
-            this.gunaLabel6.AutoSize = true;
-            this.gunaLabel6.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.gunaLabel6.ForeColor = System.Drawing.Color.White;
-            this.gunaLabel6.Location = new System.Drawing.Point(617, 34);
-            this.gunaLabel6.Name = "gunaLabel6";
-            this.gunaLabel6.Size = new System.Drawing.Size(170, 25);
-            this.gunaLabel6.TabIndex = 48;
-            this.gunaLabel6.Text = "Enter your name: ";
+            this.labelName.AutoSize = true;
+            this.labelName.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelName.ForeColor = System.Drawing.Color.White;
+            this.labelName.Location = new System.Drawing.Point(599, 32);
+            this.labelName.Name = "labelName";
+            this.labelName.Size = new System.Drawing.Size(170, 25);
+            this.labelName.TabIndex = 48;
+            this.labelName.Text = "Enter your name: ";
             // 
-            // gunaLabel7
+            // labelChoiceCar
             // 
-            this.gunaLabel7.AutoSize = true;
-            this.gunaLabel7.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.gunaLabel7.ForeColor = System.Drawing.Color.White;
-            this.gunaLabel7.Location = new System.Drawing.Point(619, 332);
-            this.gunaLabel7.Name = "gunaLabel7";
-            this.gunaLabel7.Size = new System.Drawing.Size(109, 25);
-            this.gunaLabel7.TabIndex = 60;
-            this.gunaLabel7.Text = "Choice car:";
+            this.labelChoiceCar.AutoSize = true;
+            this.labelChoiceCar.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelChoiceCar.ForeColor = System.Drawing.Color.White;
+            this.labelChoiceCar.Location = new System.Drawing.Point(601, 330);
+            this.labelChoiceCar.Name = "labelChoiceCar";
+            this.labelChoiceCar.Size = new System.Drawing.Size(109, 25);
+            this.labelChoiceCar.TabIndex = 60;
+            this.labelChoiceCar.Text = "Choice car:";
             // 
-            // gunaLabel8
+            // labelCarModel
             // 
-            this.gunaLabel8.AutoSize = true;
-            this.gunaLabel8.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.gunaLabel8.ForeColor = System.Drawing.Color.White;
-            this.gunaLabel8.Location = new System.Drawing.Point(619, 433);
-            this.gunaLabel8.Name = "gunaLabel8";
-            this.gunaLabel8.Size = new System.Drawing.Size(108, 25);
-            this.gunaLabel8.TabIndex = 61;
-            this.gunaLabel8.Text = "Car model:";
+            this.labelCarModel.AutoSize = true;
+            this.labelCarModel.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelCarModel.ForeColor = System.Drawing.Color.White;
+            this.labelCarModel.Location = new System.Drawing.Point(601, 431);
+            this.labelCarModel.Name = "labelCarModel";
+            this.labelCarModel.Size = new System.Drawing.Size(108, 25);
+            this.labelCarModel.TabIndex = 61;
+            this.labelCarModel.Text = "Car model:";
             // 
-            // gunaLabel9
+            // labelCarName
             // 
-            this.gunaLabel9.AutoSize = true;
-            this.gunaLabel9.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.gunaLabel9.ForeColor = System.Drawing.Color.White;
-            this.gunaLabel9.Location = new System.Drawing.Point(619, 396);
-            this.gunaLabel9.Name = "gunaLabel9";
-            this.gunaLabel9.Size = new System.Drawing.Size(101, 25);
-            this.gunaLabel9.TabIndex = 62;
-            this.gunaLabel9.Text = "Car name:";
+            this.labelCarName.AutoSize = true;
+            this.labelCarName.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelCarName.ForeColor = System.Drawing.Color.White;
+            this.labelCarName.Location = new System.Drawing.Point(601, 394);
+            this.labelCarName.Name = "labelCarName";
+            this.labelCarName.Size = new System.Drawing.Size(101, 25);
+            this.labelCarName.TabIndex = 62;
+            this.labelCarName.Text = "Car name:";
             // 
-            // gunaLabel10
+            // labelCarNumber
             // 
-            this.gunaLabel10.AutoSize = true;
-            this.gunaLabel10.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.gunaLabel10.ForeColor = System.Drawing.Color.White;
-            this.gunaLabel10.Location = new System.Drawing.Point(618, 476);
-            this.gunaLabel10.Name = "gunaLabel10";
-            this.gunaLabel10.Size = new System.Drawing.Size(124, 25);
-            this.gunaLabel10.TabIndex = 63;
-            this.gunaLabel10.Text = "Car number:";
+            this.labelCarNumber.AutoSize = true;
+            this.labelCarNumber.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelCarNumber.ForeColor = System.Drawing.Color.White;
+            this.labelCarNumber.Location = new System.Drawing.Point(600, 474);
+            this.labelCarNumber.Name = "labelCarNumber";
+            this.labelCarNumber.Size = new System.Drawing.Size(124, 25);
+            this.labelCarNumber.TabIndex = 63;
+            this.labelCarNumber.Text = "Car number:";
             // 
             // textBoxCarName
             // 
@@ -338,7 +338,7 @@
             this.textBoxCarName.FocusedForeColor = System.Drawing.Color.White;
             this.textBoxCarName.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxCarName.ForeColor = System.Drawing.Color.White;
-            this.textBoxCarName.Location = new System.Drawing.Point(848, 387);
+            this.textBoxCarName.Location = new System.Drawing.Point(830, 385);
             this.textBoxCarName.Name = "textBoxCarName";
             this.textBoxCarName.PasswordChar = '\0';
             this.textBoxCarName.SelectedText = "";
@@ -357,7 +357,7 @@
             this.textBoxCarModel.FocusedForeColor = System.Drawing.Color.White;
             this.textBoxCarModel.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxCarModel.ForeColor = System.Drawing.Color.White;
-            this.textBoxCarModel.Location = new System.Drawing.Point(848, 433);
+            this.textBoxCarModel.Location = new System.Drawing.Point(830, 431);
             this.textBoxCarModel.Name = "textBoxCarModel";
             this.textBoxCarModel.PasswordChar = '\0';
             this.textBoxCarModel.SelectedText = "";
@@ -376,7 +376,7 @@
             this.textBoxCarNumber.FocusedForeColor = System.Drawing.Color.White;
             this.textBoxCarNumber.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxCarNumber.ForeColor = System.Drawing.Color.White;
-            this.textBoxCarNumber.Location = new System.Drawing.Point(848, 473);
+            this.textBoxCarNumber.Location = new System.Drawing.Point(830, 471);
             this.textBoxCarNumber.Name = "textBoxCarNumber";
             this.textBoxCarNumber.PasswordChar = '\0';
             this.textBoxCarNumber.SelectedText = "";
@@ -398,7 +398,7 @@
             "Econom",
             "Luxury",
             "Truck"});
-            this.comboBoxCarsType.Location = new System.Drawing.Point(849, 331);
+            this.comboBoxCarsType.Location = new System.Drawing.Point(831, 329);
             this.comboBoxCarsType.Name = "comboBoxCarsType";
             this.comboBoxCarsType.OnHoverItemBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
             this.comboBoxCarsType.OnHoverItemForeColor = System.Drawing.Color.White;
@@ -421,7 +421,7 @@
             this.labelTaxi.AutoSize = true;
             this.labelTaxi.Font = new System.Drawing.Font("Segoe UI", 34.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelTaxi.ForeColor = System.Drawing.Color.White;
-            this.labelTaxi.Location = new System.Drawing.Point(85, 24);
+            this.labelTaxi.Location = new System.Drawing.Point(84, 24);
             this.labelTaxi.Name = "labelTaxi";
             this.labelTaxi.Size = new System.Drawing.Size(402, 77);
             this.labelTaxi.TabIndex = 23;
@@ -431,7 +431,7 @@
             // 
             this.gunaPictureBox1.BaseColor = System.Drawing.Color.White;
             this.gunaPictureBox1.ImageLocation = "F:\\WinForms\\TaxiServiceMainLast\\TaxiServiceMain\\TaxiService\\Images\\taxi2.png";
-            this.gunaPictureBox1.Location = new System.Drawing.Point(85, 121);
+            this.gunaPictureBox1.Location = new System.Drawing.Point(84, 121);
             this.gunaPictureBox1.Name = "gunaPictureBox1";
             this.gunaPictureBox1.Size = new System.Drawing.Size(402, 404);
             this.gunaPictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -443,7 +443,7 @@
             this.gunaLabel11.AutoSize = true;
             this.gunaLabel11.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.gunaLabel11.ForeColor = System.Drawing.Color.Yellow;
-            this.gunaLabel11.Location = new System.Drawing.Point(617, 288);
+            this.gunaLabel11.Location = new System.Drawing.Point(599, 286);
             this.gunaLabel11.Name = "gunaLabel11";
             this.gunaLabel11.Size = new System.Drawing.Size(428, 25);
             this.gunaLabel11.TabIndex = 69;
@@ -463,7 +463,7 @@
             this.dateTimePicker1.FocusedColor = System.Drawing.Color.Black;
             this.dateTimePicker1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.dateTimePicker1.ForeColor = System.Drawing.Color.White;
-            this.dateTimePicker1.Location = new System.Drawing.Point(623, 137);
+            this.dateTimePicker1.Location = new System.Drawing.Point(605, 135);
             this.dateTimePicker1.MaxDate = new System.DateTime(2020, 12, 31, 0, 0, 0, 0);
             this.dateTimePicker1.MinDate = new System.DateTime(1920, 1, 1, 0, 0, 0, 0);
             this.dateTimePicker1.Name = "dateTimePicker1";
@@ -481,7 +481,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(25)))), ((int)(((byte)(29)))));
-            this.ClientSize = new System.Drawing.Size(1123, 591);
+            this.ClientSize = new System.Drawing.Size(1123, 571);
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.gunaLabel11);
             this.Controls.Add(this.gunaPanel1);
@@ -489,26 +489,27 @@
             this.Controls.Add(this.textBoxCarNumber);
             this.Controls.Add(this.textBoxCarModel);
             this.Controls.Add(this.textBoxCarName);
-            this.Controls.Add(this.gunaLabel10);
-            this.Controls.Add(this.gunaLabel9);
-            this.Controls.Add(this.gunaLabel8);
-            this.Controls.Add(this.gunaLabel7);
+            this.Controls.Add(this.labelCarNumber);
+            this.Controls.Add(this.labelCarName);
+            this.Controls.Add(this.labelCarModel);
+            this.Controls.Add(this.labelChoiceCar);
             this.Controls.Add(this.gunaControlBox2);
             this.Controls.Add(this.gunaControlBox1);
             this.Controls.Add(this.buttonRegister);
             this.Controls.Add(this.textBoxConfirmPass);
-            this.Controls.Add(this.gunaLabel1);
+            this.Controls.Add(this.labelConfirmPassword);
             this.Controls.Add(this.textBoxNickname);
-            this.Controls.Add(this.gunaLabel2);
-            this.Controls.Add(this.gunaLabel3);
-            this.Controls.Add(this.gunaLabel4);
+            this.Controls.Add(this.labelPassword);
+            this.Controls.Add(this.labelNickname);
+            this.Controls.Add(this.labelBirthday);
             this.Controls.Add(this.textBoxSurname);
-            this.Controls.Add(this.gunaLabel5);
+            this.Controls.Add(this.labelSurname);
             this.Controls.Add(this.textBoxName);
             this.Controls.Add(this.textBoxPassword);
-            this.Controls.Add(this.gunaLabel6);
+            this.Controls.Add(this.labelName);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "RegistrationTaxist";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "RegistrationTaxist";
             this.gunaPanel1.ResumeLayout(false);
             this.gunaPanel1.PerformLayout();
@@ -524,20 +525,20 @@
         private Guna.UI.WinForms.GunaControlBox gunaControlBox1;
         private Guna.UI.WinForms.GunaButton buttonRegister;
         private Guna.UI.WinForms.GunaTextBox textBoxConfirmPass;
-        private Guna.UI.WinForms.GunaLabel gunaLabel1;
+        private Guna.UI.WinForms.GunaLabel labelConfirmPassword;
         private Guna.UI.WinForms.GunaTextBox textBoxNickname;
-        private Guna.UI.WinForms.GunaLabel gunaLabel2;
-        private Guna.UI.WinForms.GunaLabel gunaLabel3;
-        private Guna.UI.WinForms.GunaLabel gunaLabel4;
+        private Guna.UI.WinForms.GunaLabel labelPassword;
+        private Guna.UI.WinForms.GunaLabel labelNickname;
+        private Guna.UI.WinForms.GunaLabel labelBirthday;
         private Guna.UI.WinForms.GunaTextBox textBoxSurname;
-        private Guna.UI.WinForms.GunaLabel gunaLabel5;
+        private Guna.UI.WinForms.GunaLabel labelSurname;
         private Guna.UI.WinForms.GunaTextBox textBoxName;
         private Guna.UI.WinForms.GunaTextBox textBoxPassword;
-        private Guna.UI.WinForms.GunaLabel gunaLabel6;
-        private Guna.UI.WinForms.GunaLabel gunaLabel7;
-        private Guna.UI.WinForms.GunaLabel gunaLabel8;
-        private Guna.UI.WinForms.GunaLabel gunaLabel9;
-        private Guna.UI.WinForms.GunaLabel gunaLabel10;
+        private Guna.UI.WinForms.GunaLabel labelName;
+        private Guna.UI.WinForms.GunaLabel labelChoiceCar;
+        private Guna.UI.WinForms.GunaLabel labelCarModel;
+        private Guna.UI.WinForms.GunaLabel labelCarName;
+        private Guna.UI.WinForms.GunaLabel labelCarNumber;
         private Guna.UI.WinForms.GunaTextBox textBoxCarName;
         private Guna.UI.WinForms.GunaTextBox textBoxCarModel;
         private Guna.UI.WinForms.GunaTextBox textBoxCarNumber;

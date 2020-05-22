@@ -17,6 +17,30 @@ namespace TaxiService
         {
             InitializeComponent();
         }
+
+        public Registration(bool isEnglish)
+        {
+            InitializeComponent();
+            if (isEnglish)
+            {
+                labelName.Text = "Enter your name:";
+                labelSurname.Text = "Enter your surname:";
+                labelNickname.Text = "Enter your nickname:";
+                labelPassword.Text = "Enter your password:";
+                labelConfirmPassword.Text = "Confirm password:";
+                labelBirthday.Text = "Your birthday";
+            }
+            else
+            {
+                labelName.Text = "Введіть ім'я:";
+                labelSurname.Text = "Введіть призвіще:";
+                labelNickname.Text = "Введіть нікнейм:";
+                labelPassword.Text = "Введіть пароль:";
+                labelConfirmPassword.Text = "Підтвердіть пароль:";
+                labelBirthday.Text = "Дата вашого народження";
+            }
+        }
+
         private void buttonRegister_Click(object sender, EventArgs e)
         {
             Sound.MakeSound("ButtonClick");
@@ -58,7 +82,5 @@ namespace TaxiService
                 MessageBox.Show($"{ex.Message}");
             }
         }
-
-  
     }
 }
