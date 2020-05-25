@@ -3,12 +3,13 @@
   <taxist>
     <Name>Artem</Name>
     <Surname>Pokalchuk</Surname>
+    <IsWorking>false</IsWorking>
     <Nickname>Pokalchukk</Nickname>
     <Password>1234</Password>
   </taxist>
-  <CarName>Lamborghini</CarName>
-  <CarModel>Urus</CarModel>
-  <CarNumber>AA1111AA</CarNumber>
+  <CarName>Tesla</CarName>
+  <CarModel>X</CarModel>
+  <CarNumber>AA2727AA</CarNumber>
   <NumberOfSeats>2</NumberOfSeats>
   <IsTv>true</IsTv>
   <IsAlcohol>true</IsAlcohol>

@@ -1,15 +1,16 @@
 <?xml version="1.0"?>
-<EconomCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<LuxuryCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <taxist>
     <Name>Artem</Name>
     <Surname>Pokalchuk</Surname>
+    <IsWorking>false</IsWorking>
     <Nickname>Pokal</Nickname>
     <Password>1234</Password>
   </taxist>
-  <CarName>1</CarName>
-  <CarModel>1</CarModel>
-  <CarNumber>1</CarNumber>
-  <NumberOfSeats>1</NumberOfSeats>
-  <IsChildSeat>false</IsChildSeat>
-  <IsWheelChair>false</IsWheelChair>
-</EconomCar>
+  <CarName>Tesla</CarName>
+  <CarModel>X</CarModel>
+  <CarNumber>AA1111AA</CarNumber>
+  <NumberOfSeats>2</NumberOfSeats>
+  <IsTv>true</IsTv>
+  <IsAlcohol>true</IsAlcohol>
+</LuxuryCar>

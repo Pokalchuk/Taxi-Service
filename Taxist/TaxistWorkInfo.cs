@@ -19,17 +19,21 @@ namespace TaxiService
         {
             user = _user;
             InitializeComponent();
+            string[] street = user.Street.Split(new char[] { ':', ',' }, StringSplitOptions.RemoveEmptyEntries);
             labelNameChange.Text = user.Name;
-            labelStreetChange.Text = user.Street;
+            labelStreetChange.Text = street[0] + " " +street[1];
+            labelEntranceChange.Text = street[street.Length-1] ;
             if (isEnglish)
             {
                 labelName.Text = "Name:";
                 labelStreet.Text = "Street:";
+                labelEntrance.Text = "Entrance:";
             }
             else
             {
                 labelName.Text = "Ім'я:";
                 labelStreet.Text = "Вулиця:";
+                labelEntrance.Text = "Під'їзд:";
             }
         }
     }

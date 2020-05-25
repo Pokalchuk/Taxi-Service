@@ -4,12 +4,12 @@
     <Name>Artem</Name>
     <Surname>Pokalchuk</Surname>
     <IsWorking>false</IsWorking>
-    <Nickname>Pokalchuk1</Nickname>
+    <Nickname>Pokal1</Nickname>
     <Password>1234</Password>
   </taxist>
   <CarName>Tesla</CarName>
   <CarModel>X</CarModel>
-  <CarNumber>AA2727AA</CarNumber>
+  <CarNumber>AA1111AA</CarNumber>
   <NumberOfSeats>2</NumberOfSeats>
   <IsTv>true</IsTv>
   <IsAlcohol>true</IsAlcohol>

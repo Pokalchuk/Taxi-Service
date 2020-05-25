@@ -2,29 +2,159 @@
 <ArrayOfTruck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Truck>
     <taxist>
-      <Name>Irina</Name>
-      <Surname>Parhomenko</Surname>
+      <Name>Petro</Name>
+      <Surname>Pokhulyk</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BK1502BC</CarNumber>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BH1261BC</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1123</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>4182</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Porobko</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AA1918KA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4450</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Gaychuk</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK2958BA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4440</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Melnyk</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK2357AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>6574</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Pokalchuk</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BH9513AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4853</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Samsonov</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AA2813BK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>7806</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Kolia</Name>
       <Surname>Samsonov</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AA1681AA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>655</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Vlasenko</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
     <CarName>Fuso Canter</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA5898AE</CarNumber>
+    <CarModel>5</CarModel>
+    <CarNumber>BH6130CB</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2190</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>109</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Mizavich</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH5390AE</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>7298</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Gaychuk</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AA8307AA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>6834</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Vlasenko</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AA9260BA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>1699</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Galkin</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BH7707BA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>6912</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
@@ -32,129 +162,142 @@
       <Surname>Vasilevichka</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BH1939BA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AA9276AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6753</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>6624</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Vitaliy</Name>
-      <Surname>Gaychuk</Surname>
+      <Surname>Mizavich</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AE7149BC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6249</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Kozachok</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
+    <CarName>Scania</CarName>
     <CarModel>4</CarModel>
-    <CarNumber>BK7325AA</CarNumber>
+    <CarNumber>AA8559BC</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>9050</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Pokhulyk</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BH7487KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1264</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>9312</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Arthur</Name>
-      <Surname>Pokalchuk</Surname>
-      <IsWorking>false</IsWorking>
+      <Surname>Porobko</Surname>
+      <IsWorking>true</IsWorking>
     </taxist>
     <CarName>Seddon Atkinson</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH4467BA</CarNumber>
+    <CarModel>2</CarModel>
+    <CarNumber>BK1629BA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>7074</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>9884</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Artem</Name>
-      <Surname>Porobko</Surname>
+      <Name>Roma</Name>
+      <Surname>Vasilevichka</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE3170CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>47</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Galkin</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
     <CarName>Scania</CarName>
     <CarModel>4</CarModel>
-    <CarNumber>BH6561AC</CarNumber>
+    <CarNumber>BH9015KA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5978</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>5389</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Vlasenko</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH1013AA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>5102</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Ivan</Name>
+      <Surname>Kozachok</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AE1517CB</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4222</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Samsonov</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BK5322AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>9159</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Artem</Name>
-      <Surname>Galkin</Surname>
+      <Surname>Mizavich</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
     <CarName>Seddon Atkinson</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB4749CB</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
+    <CarModel>4</CarModel>
+    <CarNumber>BK6588CB</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2283</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>1397</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Igor</Name>
-      <Surname>Parhomenko</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK1486BA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>8198</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Vasil</Name>
-      <Surname>Parhomenko</Surname>
+      <Name>Nadia</Name>
+      <Surname>Kozachok</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
     <CarName>Scania</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB9014AA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
+    <CarModel>5</CarModel>
+    <CarNumber>BK7245BA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>156</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>37</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Vasil</Name>
-      <Surname>Koval</Surname>
-      <IsWorking>false</IsWorking>
+      <Name>Irina</Name>
+      <Surname>Vlasenko</Surname>
+      <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA2058CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
+    <CarName>SNVI</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BH5589BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>4949</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>5586</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
@@ -162,935 +305,701 @@
       <Surname>Mizavich</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>Freightliner</CarName>
+    <CarName>Fuso Canter</CarName>
     <CarModel>1</CarModel>
-    <CarNumber>BK6017BK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6426</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Kozachok</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH5805BK</CarNumber>
+    <CarNumber>AA9213CB</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>3259</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Vasilevichka</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB4329AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>8846</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Pokhulyk</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>CB6952BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>246</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Sagaidachniy</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB7413AE</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2345</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>9805</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Irina</Name>
-      <Surname>Koval</Surname>
+      <Surname>Mizavich</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB4748BC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>343</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Kozachok</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>CB4689BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>3351</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Ivan</Name>
+      <Surname>Mizavich</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE5577CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4560</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Vasilevichka</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>CB6017AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>1625</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Vilenskiy</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BK8757BA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>9141</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Porobko</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE3028BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>1593</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Pokhulyk</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>CB6930KA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4395</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Porobko</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AE6479KA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4429</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Fedor</Name>
+      <Surname>Samsonov</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BK1986AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>7049</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Arthur</Name>
+      <Surname>Pokhulyk</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
     <CarName>Seddon Atkinson</CarName>
     <CarModel>3</CarModel>
-    <CarNumber>AA1094BA</CarNumber>
+    <CarNumber>AA8306AC</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5720</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>5961</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Koval</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK9226AA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>9182</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Samsonov</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BK8573KA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>6710</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Mizavich</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>CB3455CB</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>890</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Mizavich</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BH6029BA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>271</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Kolia</Name>
+      <Surname>Kozachok</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>CB7315CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>7533</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Melnyk</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE7035AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>5759</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Irina</Name>
       <Surname>Vlasenko</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AE4711CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6176</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Melnyk</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
     <CarName>Scania</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AE3604BA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
+    <CarModel>2</CarModel>
+    <CarNumber>BK9852KA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>7412</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Samsonov</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK3964BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>3245</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>3721</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Stepan</Name>
       <Surname>Pokhulyk</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK5674KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2684</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Porobko</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB7051BK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2368</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Sagaidachniy</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
     <CarName>SNVI</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK2180CK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>976</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Gaychuk</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Fuso Canter</CarName>
     <CarModel>3</CarModel>
-    <CarNumber>BH3693KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>3923</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Pokalchuk</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Fuso Canter</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA2922AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>637</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Vilenskiy</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Fuso Canter</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH5481AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1225</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Vlasenko</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA7444AC</CarNumber>
+    <CarNumber>BH4357AC</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>9979</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Vlasenko</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB1246AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>4478</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>6529</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Fedor</Name>
-      <Surname>Vilenskiy</Surname>
+      <Surname>Samsonov</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AA6109CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>3107</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Melnyk</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AA2958CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>1741</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Samsonov</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BH2747AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4630</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Koval</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB4307AA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>2713</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Kozachok</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
     <CarName>SNVI</CarName>
     <CarModel>2</CarModel>
-    <CarNumber>BK6709AE</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2478</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Parhomenko</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BK7036BA</CarNumber>
+    <CarNumber>CB3853BC</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>8225</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>9531</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Igor</Name>
-      <Surname>Samsonov</Surname>
-      <IsWorking>false</IsWorking>
+      <Name>Nadia</Name>
+      <Surname>Pokhulyk</Surname>
+      <IsWorking>true</IsWorking>
     </taxist>
     <CarName>SNVI</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA6100BA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
+    <CarModel>1</CarModel>
+    <CarNumber>AA4232CB</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1761</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>9082</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Ivan</Name>
-      <Surname>Galkin</Surname>
+      <Name>Ostin</Name>
+      <Surname>Gaychuk</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA8123KA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>7224</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Koval</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
     <CarName>Scania</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB2964AC</CarNumber>
+    <CarModel>1</CarModel>
+    <CarNumber>BK2506AC</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>9530</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>3118</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Arthur</Name>
-      <Surname>Vlasenko</Surname>
-      <IsWorking>false</IsWorking>
+      <Name>Ostin</Name>
+      <Surname>Porobko</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BH4589AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>7515</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Gaychuk</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH5267CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>2324</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Petro</Name>
+      <Surname>Parhomenko</Surname>
+      <IsWorking>true</IsWorking>
     </taxist>
     <CarName>Fuso Canter</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA4997BA</CarNumber>
+    <CarModel>5</CarModel>
+    <CarNumber>AA1192AC</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1498</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>7389</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Kolia</Name>
+      <Surname>Gaychuk</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AA7046AA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>3530</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Melnyk</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AA8552AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>5434</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Nadia</Name>
       <Surname>Pokalchuk</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>Seddon Atkinson</CarName>
+    <CarName>Scania</CarName>
     <CarModel>5</CarModel>
-    <CarNumber>BK4952AA</CarNumber>
+    <CarNumber>AA9579AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>3094</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Mizavich</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AA7461AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4537</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Kozachok</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AE7153CB</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6955</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>9931</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Melnyk</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AE2042AA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>6577</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Parhomenko</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>CB2787AE</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>5920</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Sagaidachniy</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK9140BC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>9206</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vitaliy</Name>
+      <Surname>Porobko</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH1052BA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>8037</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Irina</Name>
       <Surname>Porobko</Surname>
-      <IsWorking>false</IsWorking>
+      <IsWorking>true</IsWorking>
     </taxist>
     <CarName>Freightliner</CarName>
     <CarModel>1</CarModel>
-    <CarNumber>AA2497BC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2831</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Pokalchuk</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Fuso Canter</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BK5795AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5761</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Koval</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AE2930AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2087</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Gaychuk</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK8147AE</CarNumber>
+    <CarNumber>AA6311BA</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6907</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Parhomenko</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BH3615KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6665</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Vlasenko</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Fuso Canter</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE6272AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>9059</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>2704</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Viktoria</Name>
-      <Surname>Vasilevichka</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE2739BC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>253</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Parhomenko</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Fuso Canter</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>CB4484AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>8734</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Mizavich</Surname>
+      <Surname>Galkin</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AE2676AE</CarNumber>
+    <CarName>SNVI</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AE6511BK</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>8041</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>1271</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Irina</Name>
-      <Surname>Vlasenko</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK6057BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1111</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Galkin</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA9464CB</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5417</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Porobko</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA3454BA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>3260</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Vasil</Name>
       <Surname>Vasilevichka</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH6282AC</CarNumber>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AA4487CK</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>7159</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>4745</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Artem</Name>
-      <Surname>Pokhulyk</Surname>
-      <IsWorking>true</IsWorking>
+      <Name>Nadia</Name>
+      <Surname>Porobko</Surname>
+      <IsWorking>false</IsWorking>
     </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AE8867BA</CarNumber>
+    <CarName>Freightliner</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA7439KA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>4081</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>3808</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Ostin</Name>
+      <Surname>Kozachok</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BH3657AA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>7443</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Artem</Name>
       <Surname>Parhomenko</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>Seddon Atkinson</CarName>
+    <CarName>Fuso Canter</CarName>
     <CarModel>4</CarModel>
-    <CarNumber>BH6497CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>729</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Galkin</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB7487KA</CarNumber>
+    <CarNumber>BH6623KA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>4983</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Gaychuk</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH5995AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>4240</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Pokhulyk</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE6612KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6808</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Kozachok</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BH5864AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6531</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>6372</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Kolia</Name>
-      <Surname>Pokhulyk</Surname>
+      <Surname>Vasilevichka</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE3557BK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>5603</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Kozachok</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>Scania</CarName>
+    <CarName>Fuso Canter</CarName>
     <CarModel>4</CarModel>
-    <CarNumber>BH6871BK</CarNumber>
+    <CarNumber>AA1742BA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2990</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>9138</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Irina</Name>
-      <Surname>Kozachok</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Fuso Canter</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>CB6040AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>9300</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Nadia</Name>
       <Surname>Koval</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
-    <CarName>Fuso Canter</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK3779CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>3229</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Galkin</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH7731AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>3821</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Igor</Name>
-      <Surname>Sagaidachniy</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
     <CarName>SNVI</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB4620KA</CarNumber>
+    <CarModel>5</CarModel>
+    <CarNumber>CB1341AA</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>7771</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>4655</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Kolia</Name>
-      <Surname>Kozachok</Surname>
-      <IsWorking>false</IsWorking>
+      <Surname>Samsonov</Surname>
+      <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK9627AC</CarNumber>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AA3703BK</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>8808</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>2165</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Ivan</Name>
-      <Surname>Samsonov</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE9785KA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>7293</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Kolia</Name>
-      <Surname>Gaychuk</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH4539KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>3278</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Pokhulyk</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA8896CK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>885</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Pokhulyk</Surname>
+      <Surname>Kozachok</Surname>
       <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA8363BC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2367</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Koval</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Fuso Canter</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AA9671CK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5423</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Vasilevichka</Surname>
-      <IsWorking>true</IsWorking>
     </taxist>
     <CarName>Scania</CarName>
     <CarModel>4</CarModel>
-    <CarNumber>AA8944CB</CarNumber>
+    <CarNumber>AE8881AE</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6289</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Vasilevichka</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>BK4609AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5837</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Sagaidachniy</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA9400AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>4279</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Galkin</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB4487AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>3233</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Arthur</Name>
-      <Surname>Mizavich</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AA2590CK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>7483</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Igor</Name>
-      <Surname>Samsonov</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA8929AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>7343</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Roma</Name>
-      <Surname>Vilenskiy</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>CB2911BK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>4229</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Artem</Name>
-      <Surname>Koval</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE1312CB</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>179</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Vitaliy</Name>
-      <Surname>Pokalchuk</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>BK5772KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>565</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Melnyk</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Fuso Canter</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>AE7749CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>8640</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Vasil</Name>
-      <Surname>Porobko</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB2283BC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>7543</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Vlasenko</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB9436CK</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6306</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>8792</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Viktoria</Name>
-      <Surname>Melnyk</Surname>
+      <Surname>Koval</Surname>
       <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AA6690CB</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5249</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Stepan</Name>
-      <Surname>Porobko</Surname>
-      <IsWorking>true</IsWorking>
     </taxist>
     <CarName>Fuso Canter</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK2569KA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5648</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ostin</Name>
-      <Surname>Vasilevichka</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
     <CarModel>3</CarModel>
-    <CarNumber>BK3052CK</CarNumber>
+    <CarNumber>AA6314AC</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1734</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Irina</Name>
-      <Surname>Parhomenko</Surname>
-      <IsWorking>false</IsWorking>
-    </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA7294AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>8713</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>3423</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Petro</Name>
-      <Surname>Samsonov</Surname>
+      <Surname>Vlasenko</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AA2328AA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BH2544AE</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1927</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>929</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Irina</Name>
-      <Surname>Mizavich</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>CB4460KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5935</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Kozachok</Surname>
-      <IsWorking>true</IsWorking>
+      <Name>Arthur</Name>
+      <Surname>Pokhulyk</Surname>
+      <IsWorking>false</IsWorking>
     </taxist>
     <CarName>Seddon Atkinson</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK8478BA</CarNumber>
+    <CarModel>3</CarModel>
+    <CarNumber>AE6223AA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5432</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>4752</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Pokalchuk</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>CB4390AA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>5071</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
@@ -1098,206 +1007,297 @@
       <Surname>Vilenskiy</Surname>
       <IsWorking>true</IsWorking>
     </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>BK8603BC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>4155</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Nadia</Name>
-      <Surname>Porobko</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA9195AA</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1701</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Sagaidachniy</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE7969AC</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1115</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Vasilevichka</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AE1423AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2791</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Petro</Name>
-      <Surname>Galkin</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
     <CarName>Scania</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BH2237BA</CarNumber>
+    <CarModel>1</CarModel>
+    <CarNumber>BH6303AA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>6031</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>8994</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Artem</Name>
-      <Surname>Porobko</Surname>
+      <Name>Stepan</Name>
+      <Surname>Parhomenko</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BK3660AC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BK5976BA</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>8307</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>2384</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Ivan</Name>
-      <Surname>Melnyk</Surname>
+      <Name>Fedor</Name>
+      <Surname>Porobko</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
     <CarName>Freightliner</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AE7604CB</CarNumber>
+    <CarModel>1</CarModel>
+    <CarNumber>AA8099AE</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>9321</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>1903</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Igor</Name>
-      <Surname>Samsonov</Surname>
+      <Name>Stepan</Name>
+      <Surname>Vilenskiy</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>1</CarModel>
-    <CarNumber>AE4823CK</CarNumber>
+    <CarName>Freightliner</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>BK1015CB</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>3832</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Ivan</Name>
-      <Surname>Pokhulyk</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK3754CK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>3297</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>5064</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Vitaliy</Name>
-      <Surname>Vilenskiy</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Freightliner</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA8528BC</CarNumber>
-    <NumberOfSeats>2</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>8951</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Fedor</Name>
-      <Surname>Porobko</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>3</CarModel>
-    <CarNumber>AA7100AE</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1504</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Igor</Name>
-      <Surname>Pokhulyk</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
-    <CarName>SNVI</CarName>
-    <CarModel>2</CarModel>
-    <CarNumber>BH1661KA</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>9822</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Igor</Name>
-      <Surname>Vlasenko</Surname>
+      <Surname>Galkin</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
-    <CarName>Scania</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA6701CK</CarNumber>
-    <NumberOfSeats>1</NumberOfSeats>
-    <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>9958</MaxKilogramsOfCargo>
-  </Truck>
-  <Truck>
-    <taxist>
-      <Name>Vasil</Name>
-      <Surname>Porobko</Surname>
-      <IsWorking>true</IsWorking>
-    </taxist>
     <CarName>Fuso Canter</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>BK9384CB</CarNumber>
+    <CarModel>2</CarModel>
+    <CarNumber>CB4433AA</CarNumber>
     <NumberOfSeats>2</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>1217</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>6431</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
-      <Name>Fedor</Name>
-      <Surname>Koval</Surname>
-      <IsWorking>true</IsWorking>
+      <Name>Ostin</Name>
+      <Surname>Samsonov</Surname>
+      <IsWorking>false</IsWorking>
     </taxist>
-    <CarName>Seddon Atkinson</CarName>
-    <CarModel>5</CarModel>
-    <CarNumber>AA3188CK</CarNumber>
+    <CarName>Freightliner</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BK9579BK</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>2086</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>2937</MaxKilogramsOfCargo>
   </Truck>
   <Truck>
     <taxist>
       <Name>Arthur</Name>
-      <Surname>Pokalchuk</Surname>
+      <Surname>Pokhulyk</Surname>
       <IsWorking>false</IsWorking>
     </taxist>
-    <CarName>Fuso Canter</CarName>
-    <CarModel>4</CarModel>
-    <CarNumber>AA5284KA</CarNumber>
+    <CarName>Freightliner</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AA5110BA</CarNumber>
     <NumberOfSeats>1</NumberOfSeats>
     <KilogramsCargo>0</KilogramsCargo>
-    <MaxKilogramsOfCargo>5017</MaxKilogramsOfCargo>
+    <MaxKilogramsOfCargo>8696</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Samsonov</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB7295AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>6875</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Igor</Name>
+      <Surname>Gaychuk</Surname>
+      <IsWorking>false</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>CB4469CB</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>9844</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Viktoria</Name>
+      <Surname>Mizavich</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BH3942AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>878</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Parhomenko</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>AE3134AC</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>143</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Ivan</Name>
+      <Surname>Porobko</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AE7629KA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>5992</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Vilenskiy</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>AA1094AE</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>1181</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Nadia</Name>
+      <Surname>Koval</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BK2842CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>9271</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Koval</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>AE7864CB</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>3010</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Stepan</Name>
+      <Surname>Sagaidachniy</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Seddon Atkinson</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>AA1902AA</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>6284</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Ostin</Name>
+      <Surname>Sagaidachniy</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Freightliner</CarName>
+    <CarModel>4</CarModel>
+    <CarNumber>BH2863BK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>5923</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Sagaidachniy</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>2</CarModel>
+    <CarNumber>AE3985CB</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>5689</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Kozachok</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>1</CarModel>
+    <CarNumber>BK6266AE</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4165</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Roma</Name>
+      <Surname>Vasilevichka</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Fuso Canter</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BH8621CK</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>8834</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Vasil</Name>
+      <Surname>Samsonov</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>SNVI</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BK9603AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>9293</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Irina</Name>
+      <Surname>Pokhulyk</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>5</CarModel>
+    <CarNumber>BK7244AC</CarNumber>
+    <NumberOfSeats>1</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>3594</MaxKilogramsOfCargo>
+  </Truck>
+  <Truck>
+    <taxist>
+      <Name>Artem</Name>
+      <Surname>Gaychuk</Surname>
+      <IsWorking>true</IsWorking>
+    </taxist>
+    <CarName>Scania</CarName>
+    <CarModel>3</CarModel>
+    <CarNumber>BK9822CK</CarNumber>
+    <NumberOfSeats>2</NumberOfSeats>
+    <KilogramsCargo>0</KilogramsCargo>
+    <MaxKilogramsOfCargo>4900</MaxKilogramsOfCargo>
   </Truck>
 </ArrayOfTruck>

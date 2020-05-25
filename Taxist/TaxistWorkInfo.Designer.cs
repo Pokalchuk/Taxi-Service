@@ -36,6 +36,8 @@
             this.gunaControlBox2 = new Guna.UI.WinForms.GunaControlBox();
             this.gunaControlBox1 = new Guna.UI.WinForms.GunaControlBox();
             this.gunaDragControl1 = new Guna.UI.WinForms.GunaDragControl(this.components);
+            this.labelEntranceChange = new System.Windows.Forms.Label();
+            this.labelEntrance = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // labelName
@@ -43,7 +45,7 @@
             this.labelName.AutoSize = true;
             this.labelName.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelName.ForeColor = System.Drawing.Color.White;
-            this.labelName.Location = new System.Drawing.Point(121, 57);
+            this.labelName.Location = new System.Drawing.Point(108, 57);
             this.labelName.Name = "labelName";
             this.labelName.Size = new System.Drawing.Size(69, 25);
             this.labelName.TabIndex = 0;
@@ -54,11 +56,11 @@
             this.labelStreet.AutoSize = true;
             this.labelStreet.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelStreet.ForeColor = System.Drawing.Color.White;
-            this.labelStreet.Location = new System.Drawing.Point(121, 97);
+            this.labelStreet.Location = new System.Drawing.Point(108, 97);
             this.labelStreet.Name = "labelStreet";
-            this.labelStreet.Size = new System.Drawing.Size(65, 25);
+            this.labelStreet.Size = new System.Drawing.Size(70, 25);
             this.labelStreet.TabIndex = 1;
-            this.labelStreet.Text = "Street";
+            this.labelStreet.Text = "Street:";
             // 
             // labelStreetChange
             // 
@@ -117,12 +119,36 @@
             // 
             this.gunaDragControl1.TargetControl = this;
             // 
+            // labelEntranceChange
+            // 
+            this.labelEntranceChange.AutoSize = true;
+            this.labelEntranceChange.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelEntranceChange.ForeColor = System.Drawing.Color.White;
+            this.labelEntranceChange.Location = new System.Drawing.Point(209, 138);
+            this.labelEntranceChange.Name = "labelEntranceChange";
+            this.labelEntranceChange.Size = new System.Drawing.Size(90, 25);
+            this.labelEntranceChange.TabIndex = 25;
+            this.labelEntranceChange.Text = "entrance";
+            // 
+            // labelEntrance
+            // 
+            this.labelEntrance.AutoSize = true;
+            this.labelEntrance.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelEntrance.ForeColor = System.Drawing.Color.White;
+            this.labelEntrance.Location = new System.Drawing.Point(108, 138);
+            this.labelEntrance.Name = "labelEntrance";
+            this.labelEntrance.Size = new System.Drawing.Size(95, 25);
+            this.labelEntrance.TabIndex = 24;
+            this.labelEntrance.Text = "Entrance:";
+            // 
             // TaxistWorkInfo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(25)))), ((int)(((byte)(29)))));
             this.ClientSize = new System.Drawing.Size(408, 206);
+            this.Controls.Add(this.labelEntranceChange);
+            this.Controls.Add(this.labelEntrance);
             this.Controls.Add(this.gunaControlBox2);
             this.Controls.Add(this.gunaControlBox1);
             this.Controls.Add(this.labelStreetChange);
@@ -149,5 +175,7 @@
         private Guna.UI.WinForms.GunaControlBox gunaControlBox2;
         private Guna.UI.WinForms.GunaControlBox gunaControlBox1;
         private Guna.UI.WinForms.GunaDragControl gunaDragControl1;
+        private System.Windows.Forms.Label labelEntranceChange;
+        private System.Windows.Forms.Label labelEntrance;
     }
 }

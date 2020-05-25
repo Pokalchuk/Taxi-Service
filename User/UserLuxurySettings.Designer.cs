@@ -43,7 +43,7 @@
             // numericUpDownAmountPeople
             // 
             this.numericUpDownAmountPeople.Font = new System.Drawing.Font("Jost Medium", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.numericUpDownAmountPeople.Location = new System.Drawing.Point(187, 46);
+            this.numericUpDownAmountPeople.Location = new System.Drawing.Point(163, 46);
             this.numericUpDownAmountPeople.Maximum = new decimal(new int[] {
             2,
             0,
@@ -71,7 +71,7 @@
             this.gunaControlBox2.ControlBoxType = Guna.UI.WinForms.FormControlBoxType.MinimizeBox;
             this.gunaControlBox2.IconColor = System.Drawing.Color.White;
             this.gunaControlBox2.IconSize = 15F;
-            this.gunaControlBox2.Location = new System.Drawing.Point(166, 4);
+            this.gunaControlBox2.Location = new System.Drawing.Point(148, 4);
             this.gunaControlBox2.Name = "gunaControlBox2";
             this.gunaControlBox2.OnHoverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(103)))), ((int)(((byte)(58)))), ((int)(((byte)(183)))));
             this.gunaControlBox2.OnHoverIconColor = System.Drawing.Color.White;
@@ -86,7 +86,7 @@
             this.gunaControlBox1.AnimationSpeed = 0.03F;
             this.gunaControlBox1.IconColor = System.Drawing.Color.White;
             this.gunaControlBox1.IconSize = 15F;
-            this.gunaControlBox1.Location = new System.Drawing.Point(206, 4);
+            this.gunaControlBox1.Location = new System.Drawing.Point(188, 4);
             this.gunaControlBox1.Name = "gunaControlBox1";
             this.gunaControlBox1.OnHoverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(103)))), ((int)(((byte)(58)))), ((int)(((byte)(183)))));
             this.gunaControlBox1.OnHoverIconColor = System.Drawing.Color.White;
@@ -106,7 +106,7 @@
             this.gunaButton1.ForeColor = System.Drawing.Color.White;
             this.gunaButton1.Image = null;
             this.gunaButton1.ImageSize = new System.Drawing.Size(20, 20);
-            this.gunaButton1.Location = new System.Drawing.Point(41, 147);
+            this.gunaButton1.Location = new System.Drawing.Point(17, 147);
             this.gunaButton1.Name = "gunaButton1";
             this.gunaButton1.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.gunaButton1.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -127,7 +127,7 @@
             this.checkBoxAlcohol.FillColor = System.Drawing.Color.White;
             this.checkBoxAlcohol.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.checkBoxAlcohol.ForeColor = System.Drawing.Color.White;
-            this.checkBoxAlcohol.Location = new System.Drawing.Point(41, 113);
+            this.checkBoxAlcohol.Location = new System.Drawing.Point(17, 113);
             this.checkBoxAlcohol.Name = "checkBoxAlcohol";
             this.checkBoxAlcohol.Size = new System.Drawing.Size(98, 28);
             this.checkBoxAlcohol.TabIndex = 46;
@@ -142,7 +142,7 @@
             this.checkBoxTv.FillColor = System.Drawing.Color.White;
             this.checkBoxTv.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.checkBoxTv.ForeColor = System.Drawing.Color.White;
-            this.checkBoxTv.Location = new System.Drawing.Point(41, 79);
+            this.checkBoxTv.Location = new System.Drawing.Point(17, 79);
             this.checkBoxTv.Name = "checkBoxTv";
             this.checkBoxTv.Size = new System.Drawing.Size(55, 28);
             this.checkBoxTv.TabIndex = 45;
@@ -154,7 +154,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(36, 46);
+            this.label1.Location = new System.Drawing.Point(12, 46);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(82, 25);
             this.label1.TabIndex = 44;
@@ -169,7 +169,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(25)))), ((int)(((byte)(29)))));
-            this.ClientSize = new System.Drawing.Size(250, 250);
+            this.ClientSize = new System.Drawing.Size(232, 203);
             this.Controls.Add(this.gunaButton1);
             this.Controls.Add(this.checkBoxAlcohol);
             this.Controls.Add(this.checkBoxTv);

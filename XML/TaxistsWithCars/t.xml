@@ -3,6 +3,7 @@
   <taxist>
     <Name>t</Name>
     <Surname>t</Surname>
+    <IsWorking>false</IsWorking>
     <Nickname>t</Nickname>
     <Password>t</Password>
   </taxist>
@@ -11,5 +12,5 @@
   <CarNumber>t</CarNumber>
   <NumberOfSeats>2</NumberOfSeats>
   <IsTv>true</IsTv>
-  <IsAlcohol>true</IsAlcohol>
+  <IsAlcohol>false</IsAlcohol>
 </LuxuryCar>

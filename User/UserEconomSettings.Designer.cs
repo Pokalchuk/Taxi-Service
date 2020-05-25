@@ -43,7 +43,7 @@
             // numericUpDownAmountPeople
             // 
             this.numericUpDownAmountPeople.Font = new System.Drawing.Font("Jost Medium", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.numericUpDownAmountPeople.Location = new System.Drawing.Point(184, 48);
+            this.numericUpDownAmountPeople.Location = new System.Drawing.Point(165, 46);
             this.numericUpDownAmountPeople.Maximum = new decimal(new int[] {
             4,
             0,
@@ -69,7 +69,7 @@
             this.labelPeople.AutoSize = true;
             this.labelPeople.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelPeople.ForeColor = System.Drawing.Color.White;
-            this.labelPeople.Location = new System.Drawing.Point(31, 48);
+            this.labelPeople.Location = new System.Drawing.Point(12, 46);
             this.labelPeople.Name = "labelPeople";
             this.labelPeople.Size = new System.Drawing.Size(82, 25);
             this.labelPeople.TabIndex = 4;
@@ -83,7 +83,7 @@
             this.gunaControlBox2.ControlBoxType = Guna.UI.WinForms.FormControlBoxType.MinimizeBox;
             this.gunaControlBox2.IconColor = System.Drawing.Color.White;
             this.gunaControlBox2.IconSize = 15F;
-            this.gunaControlBox2.Location = new System.Drawing.Point(166, 5);
+            this.gunaControlBox2.Location = new System.Drawing.Point(148, 5);
             this.gunaControlBox2.Name = "gunaControlBox2";
             this.gunaControlBox2.OnHoverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(103)))), ((int)(((byte)(58)))), ((int)(((byte)(183)))));
             this.gunaControlBox2.OnHoverIconColor = System.Drawing.Color.White;
@@ -98,7 +98,7 @@
             this.gunaControlBox1.AnimationSpeed = 0.03F;
             this.gunaControlBox1.IconColor = System.Drawing.Color.White;
             this.gunaControlBox1.IconSize = 15F;
-            this.gunaControlBox1.Location = new System.Drawing.Point(206, 5);
+            this.gunaControlBox1.Location = new System.Drawing.Point(188, 5);
             this.gunaControlBox1.Name = "gunaControlBox1";
             this.gunaControlBox1.OnHoverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(103)))), ((int)(((byte)(58)))), ((int)(((byte)(183)))));
             this.gunaControlBox1.OnHoverIconColor = System.Drawing.Color.White;
@@ -118,7 +118,7 @@
             this.buttonFind.ForeColor = System.Drawing.Color.White;
             this.buttonFind.Image = null;
             this.buttonFind.ImageSize = new System.Drawing.Size(20, 20);
-            this.buttonFind.Location = new System.Drawing.Point(35, 145);
+            this.buttonFind.Location = new System.Drawing.Point(16, 143);
             this.buttonFind.Name = "buttonFind";
             this.buttonFind.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.buttonFind.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -139,7 +139,7 @@
             this.checkBoxWheelChair.FillColor = System.Drawing.Color.White;
             this.checkBoxWheelChair.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.checkBoxWheelChair.ForeColor = System.Drawing.Color.White;
-            this.checkBoxWheelChair.Location = new System.Drawing.Point(35, 111);
+            this.checkBoxWheelChair.Location = new System.Drawing.Point(16, 109);
             this.checkBoxWheelChair.Name = "checkBoxWheelChair";
             this.checkBoxWheelChair.Size = new System.Drawing.Size(135, 28);
             this.checkBoxWheelChair.TabIndex = 41;
@@ -154,7 +154,7 @@
             this.checkBoxChildSeat.FillColor = System.Drawing.Color.White;
             this.checkBoxChildSeat.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.checkBoxChildSeat.ForeColor = System.Drawing.Color.White;
-            this.checkBoxChildSeat.Location = new System.Drawing.Point(35, 77);
+            this.checkBoxChildSeat.Location = new System.Drawing.Point(16, 75);
             this.checkBoxChildSeat.Name = "checkBoxChildSeat";
             this.checkBoxChildSeat.Size = new System.Drawing.Size(117, 28);
             this.checkBoxChildSeat.TabIndex = 40;
@@ -170,7 +170,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(25)))), ((int)(((byte)(29)))));
-            this.ClientSize = new System.Drawing.Size(250, 250);
+            this.ClientSize = new System.Drawing.Size(232, 203);
             this.Controls.Add(this.buttonFind);
             this.Controls.Add(this.checkBoxWheelChair);
             this.Controls.Add(this.checkBoxChildSeat);

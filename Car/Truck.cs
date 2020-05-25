@@ -43,9 +43,10 @@ namespace TaxiService
             User user;
             for (int i = 0; i < usersTruckBase.Count; ++i)
             {
+                string[] streetName = usersTruckBase[i].User.Street.Split(new char[] { ':', ',' }, StringSplitOptions.RemoveEmptyEntries);
                 if (usersTruckBase[i].KilogramsCargo <= this.MaxKilogramsOfCargo &&
                 usersTruckBase[i].NumberOfSeats <= this.NumberOfSeats &&
-                district.districts.Contains(usersTruckBase[i].User.Street))
+                district.districts.Contains(streetName[0]))
                 {
                     user = usersTruckBase[i].User;
                     return user;

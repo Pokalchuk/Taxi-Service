@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <Truck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <taxist>
-    <Name>r</Name>
-    <Surname>r</Surname>
+    <Name>e</Name>
+    <Surname>e</Surname>
     <IsWorking>false</IsWorking>
-    <Nickname>r</Nickname>
-    <Password>r</Password>
+    <Nickname>e</Nickname>
+    <Password>e</Password>
   </taxist>
-  <CarName>r</CarName>
-  <CarModel>r</CarModel>
-  <CarNumber>r</CarNumber>
+  <CarName>e</CarName>
+  <CarModel>e</CarModel>
+  <CarNumber>e</CarNumber>
   <NumberOfSeats>1</NumberOfSeats>
   <KilogramsCargo>0</KilogramsCargo>
-  <MaxKilogramsOfCargo>1000</MaxKilogramsOfCargo>
+  <MaxKilogramsOfCargo>3600</MaxKilogramsOfCargo>
 </Truck>

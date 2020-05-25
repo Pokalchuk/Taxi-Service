@@ -47,10 +47,11 @@ namespace TaxiService
             User user;
             for (int i = 0; i < usersLuxuryBase.Count; ++i)
             {
+                string[] streetName = usersLuxuryBase[i].User.Street.Split(new char[] { ':', ',' }, StringSplitOptions.RemoveEmptyEntries);
                 if (usersLuxuryBase[i].IsAlcohol == this.IsAlcohol &&
                 usersLuxuryBase[i].IsTv == this.IsTv &&
                 usersLuxuryBase[i].NumberOfSeats <= this.NumberOfSeats &&
-                district.districts.Contains(usersLuxuryBase[i].User.Street))
+                district.districts.Contains(streetName[0]))
                 {
                     user = usersLuxuryBase[i].User;
                     return user;

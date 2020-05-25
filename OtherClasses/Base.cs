@@ -29,8 +29,9 @@ namespace TaxiService
         {
             const int Streets = 15;
             string[] streets = { "Shevchenka", "Bohoyavlenska", "Omega", "Mir", "Moskovskaya", "Oleni Teligi", "Volodimira", "Romanovicha", "Yabluneva", "Sagaychuka", "Polovtsia", "Ogirkova", "Vishneva", "Zlota", "Soborna" };
-            return streets[rand.Next(Streets)];
+            return streets[rand.Next(Streets)] +$":{rand.Next(1,45)}" + $",Entrance:{rand.Next(1,7)} ";
         }
+
         public static string RandomNameEconomCar(this Random rand)
         {
             const int Names = 5;
