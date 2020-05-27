@@ -125,7 +125,7 @@
             this.buttonFind.OnHoverForeColor = System.Drawing.Color.White;
             this.buttonFind.OnHoverImage = null;
             this.buttonFind.OnPressedColor = System.Drawing.Color.Black;
-            this.buttonFind.Size = new System.Drawing.Size(61, 37);
+            this.buttonFind.Size = new System.Drawing.Size(101, 37);
             this.buttonFind.TabIndex = 42;
             this.buttonFind.Text = "Find";
             this.buttonFind.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;

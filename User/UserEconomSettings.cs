@@ -23,12 +23,14 @@ namespace TaxiService
                 labelPeople.Text = "People:";
                 checkBoxChildSeat.Text = "Child seat:";
                 checkBoxWheelChair.Text = "Wheel chair:";
+                buttonFind.Text = "Find";
             }
             else
             {
                 labelPeople.Text = "К-сть людей:";
                 checkBoxChildSeat.Text = "Дитячий візок";
                 checkBoxWheelChair.Text = "Інвалідне крісло";
+                buttonFind.Text = "Знайти";
             }
         }
         private void buttonFind_Click(object sender, EventArgs e)

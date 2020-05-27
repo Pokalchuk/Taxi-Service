@@ -22,11 +22,13 @@ namespace TaxiService
             {
                 labelCargo.Text = "Max kilograms cargo:";
                 labelPeople.Text = "People:";
+                buttonFind.Text = "Find";
             }
             else
             {
                 labelCargo.Text = "Вантажопідйомність(кг):";
                 labelPeople.Text = "К-сть людей:";
+                buttonFind.Text = "Знайти";
             }
         }
         private void buttonFind_Click(object sender, EventArgs e)

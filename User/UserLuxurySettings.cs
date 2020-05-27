@@ -23,12 +23,14 @@ namespace TaxiService
                 label1.Text = "People:";
                 checkBoxTv.Text = "TV";
                 checkBoxAlcohol.Text = "Alcohol";
+                buttonFind.Text = "Find";
             }
             else
             {
                 label1.Text = "К-сть людей:";
                 checkBoxTv.Text = "Телевізор";
                 checkBoxAlcohol.Text = "Алкоголь";
+                buttonFind.Text = "Знайти";
             }
         }
         private void buttonFind_Click(object sender, EventArgs e)

@@ -29,6 +29,7 @@ namespace TaxiService
                 labelPassword.Text = "Enter your password:";
                 labelConfirmPassword.Text = "Confirm password:";
                 labelBirthday.Text = "Your birthday";
+                buttonRegister.Text = "Register";
             }
             else
             {
@@ -38,6 +39,7 @@ namespace TaxiService
                 labelPassword.Text = "Введіть пароль:";
                 labelConfirmPassword.Text = "Підтвердіть пароль:";
                 labelBirthday.Text = "Дата вашого народження";
+                buttonRegister.Text = "Реєстрація";
             }
         }
 

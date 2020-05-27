@@ -27,12 +27,14 @@ namespace TaxiService
                 labelChoiceCar.Text = "Choice car:";
                 labelCurrentAdress.Text = "Current address:";
                 labelFinalAdress.Text = "Final address:";
+                buttonFindCar.Text = "Find";
             }
             else
             {
                 labelChoiceCar.Text = "Вибір машини:";
                 labelCurrentAdress.Text = "Звідки:";
                 labelFinalAdress.Text = "Куди:";
+                buttonFindCar.Text = "Знайти";
             }
         }
         private void buttonFindCar_Click(object sender, EventArgs e)
